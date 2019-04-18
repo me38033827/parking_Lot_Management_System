@@ -1,0 +1,112 @@
+[
+    {
+        "model": "parkManagement.Car",
+        "pk": "558AKV",
+        "fk": 0,
+        "fields": {
+            "xCoord": 137,
+            "yCoord": 232,
+            "rot": 0,
+            "owner_id": 0
+        }
+    },
+    {
+        "model": "parkManagement.Car",
+        "pk": "975AMF",
+        "fk": 1,
+        "fields": {
+            "xCoord": 137,
+            "yCoord": 312,
+            "rot": 0,
+            "owner_id": 1
+        }
+    },
+    {
+        "model": "parkManagement.Car",
+        "pk": "266AGJ",
+        "fk": 2,
+        "fields": {
+            "xCoord": 137,
+            "yCoord": 392,
+            "rot": 0,
+            "owner_id": 2
+        }
+    },
+    {
+        "model": "parkManagement.Car",
+        "pk": "899AFK",
+        "fk": 3,
+        "fields": {
+            "xCoord": 137,
+            "yCoord": 472,
+            "rot": 0,
+            "owner_id": 3
+        }
+    },
+    {
+        "model": "parkManagement.Car",
+        "pk": "644AJT",
+        "fk": 4,
+        "fields": {
+            "xCoord": 137,
+            "yCoord": 552,
+            "rot": 0,
+            "owner_id": 4
+        }
+    },
+    {
+        "model": "parkManagement.Car",
+        "pk": "144AAR ",
+        "fk": 5,
+        "fields": {
+            "xCoord": 442,
+            "yCoord": 137,
+            "rot": 90,
+            "owner_id": 5
+        }
+    },
+    {
+        "model": "parkManagement.Car",
+        "pk": "975APR",
+        "fk": 6,
+        "fields": {
+            "xCoord": 522,
+            "yCoord": 137,
+            "rot": 90,
+            "owner_id": 6
+        }
+    },
+    {
+        "model": "parkManagement.Car",
+        "pk": "910ANP",
+        "fk": 7,
+        "fields": {
+            "xCoord": 602,
+            "yCoord": 137,
+            "rot": 90,
+            "owner_id": 7
+        }
+    },
+    {
+        "model": "parkManagement.Car",
+        "pk": "298AHU",
+        "fk": 8,
+        "fields": {
+            "xCoord": 682,
+            "yCoord": 137,
+            "rot": 90,
+            "owner_id": 8
+        }
+    },
+    {
+        "model": "parkManagement.Car",
+        "pk": "584ARY",
+        "fk": 9,
+        "fields": {
+            "xCoord": 762,
+            "yCoord": 137,
+            "rot": 90,
+            "owner_id": 9
+        }
+    }
+]

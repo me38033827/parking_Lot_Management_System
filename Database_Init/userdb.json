@@ -1,0 +1,112 @@
+[
+    {
+        "model": "parkManagement.User",
+        "pk": 0,
+        "fields": {
+            "phoneNumber": 5823447919,
+            "xCoord": 450,
+            "yCoord": 300,
+            "password": "357bdc35c5169ffbf6b1298052274d0aee9ac16c35080400c30cd4f2cd197e3a",
+            "email": "5823447919@gmail.com"
+        }
+    },
+    {
+        "model": "parkManagement.User",
+        "pk": 1,
+        "fields": {
+            "phoneNumber": 7748187599,
+            "xCoord": 0,
+            "yCoord": 0,
+            "password": "b4ebcb69878d9a99bac31b2301ccce2ea4bc9e6b4ad3c5717433105278f152a9",
+            "email": "7748187599@gmail.com"
+        }
+    },
+    {
+        "model": "parkManagement.User",
+        "pk": 2,
+        "fields": {
+            "phoneNumber": 9298687511,
+            "xCoord": 0,
+            "yCoord": 0,
+            "password": "5d1f2672c052b324e57366abf09eb95cf8a0f198b0182796fb44ded753c80e8b",
+            "email": "9298687511@gmail.com"
+        }
+    },
+    {
+        "model": "parkManagement.User",
+        "pk": 3,
+        "fields": {
+            "phoneNumber": 8047290211,
+            "xCoord": 0,
+            "yCoord": 0,
+            "password": "d18e7116748f44b9c7a2da9d262336605e7e064d2543ed379bfbc96c61f405f4",
+            "email": "8047290211@gmail.com"
+        }
+    },
+    {
+        "model": "parkManagement.User",
+        "pk": 4,
+        "fields": {
+            "phoneNumber": 4124343018,
+            "xCoord": 0,
+            "yCoord": 0,
+            "password": "2cc44fe1236e53c6e11c13ca9aff5d33f0bd21922bafb9ac3595ddc8e2dadaba",
+            "email": "4124343018@gmail.com"
+        }
+    },
+    {
+        "model": "parkManagement.User",
+        "pk": 5,
+        "fields": {
+            "phoneNumber": 3708700556,
+            "xCoord": 0,
+            "yCoord": 0,
+            "password": "acab24a7a3c2f8b015cf6a81ce3b86aaf1478b34d498e0ad20087c06ab386c4b",
+            "email": "3708700556@gmail.com"
+        }
+    },
+    {
+        "model": "parkManagement.User",
+        "pk": 6,
+        "fields": {
+            "phoneNumber": 2506857347,
+            "xCoord": 0,
+            "yCoord": 0,
+            "password": "99cf43cf388cb1dc369b31bc0d0106682f10f0e9d686c89964a811aae7a55431",
+            "email": "2506857347@gmail.com"
+        }
+    },
+    {
+        "model": "parkManagement.User",
+        "pk": 7,
+        "fields": {
+            "phoneNumber": 3504513683,
+            "xCoord": 0,
+            "yCoord": 0,
+            "password": "a342b9ea780f1ff905cd4ffb591608642b37eb20f25cd222876ac54092564fdb",
+            "email": "3504513683@gmail.com"
+        }
+    },
+    {
+        "model": "parkManagement.User",
+        "pk": 8,
+        "fields": {
+            "phoneNumber": 8438722004,
+            "xCoord": 0,
+            "yCoord": 0,
+            "password": "0745655b1ad536ead9e11942e590c32f50be2f6cdf3aab39a20b063dfe835cb8",
+            "email": "8438722004@gmail.com"
+        }
+    },
+    {
+        "model": "parkManagement.User",
+        "pk": 9,
+        "fields": {
+            "phoneNumber": 4292759106,
+            "xCoord": 0,
+            "yCoord": 0,
+            "password": "d99dfdbaaefb9c4f91d901ca15267547f6bac7f426b45494ab8128e8c1fc1603",
+            "email": "jzynoter@gmail.com"
+        }
+    }
+]

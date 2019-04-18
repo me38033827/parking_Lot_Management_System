@@ -1,0 +1,779 @@
+<!doctype html>
+{% load static %}
+<html>
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+      <title>APIs</title>
+      <style>#loader{transition:all .3s ease-in-out;opacity:1;visibility:visible;position:fixed;height:100vh;width:100%;background:#fff;z-index:90000}#loader.fadeOut{opacity:0;visibility:hidden}.spinner{width:40px;height:40px;position:absolute;top:calc(50% - 20px);left:calc(50% - 20px);background-color:#333;border-radius:100%;-webkit-animation:sk-scaleout 1s infinite ease-in-out;animation:sk-scaleout 1s infinite ease-in-out}@-webkit-keyframes sk-scaleout{0%{-webkit-transform:scale(0)}100%{-webkit-transform:scale(1);opacity:0}}@keyframes sk-scaleout{0%{-webkit-transform:scale(0);transform:scale(0)}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}</style>
+      <link href={% static "style.css" %} rel="stylesheet">
+   </head>
+   <body class="app">
+      <div id="loader">
+         <div class="spinner"></div>
+      </div>
+      <script>window.addEventListener('load', () => {
+         const loader = document.getElementById('loader');
+         setTimeout(() => {
+           loader.classList.add('fadeOut');
+         }, 300);
+         });
+      </script>
+      <div>
+         <div class="page-container">
+            <main class="main-content bgc-grey-100">
+               <div id="mainContent">
+                  <div class="container-fluid">
+                     <h4 class="c-grey-900 mT-10 mB-30">Web Services Sharing Custom Header Attributes</h4>
+
+                     <div class="row">
+                        <div class="col-md-12">
+                           <div class="bgc-white bd bdrs-3 p-20 mB-20">
+                              <h4 class="c-grey-900 mB-20">1.</h4>
+                              <p>Return the number of cars parking at the parking lot within a time span</p>
+                              <table class="table">
+                                 <thead class="thead-dark">
+                                    <tr>
+                                       <th scope="col" colspan="2">Input</th>
+                                    </tr>
+                                 </thead>
+                                 <tbody>
+                                    <tr>
+                                       <th scope="row">URL</th>
+                                       <td>/park/number?start=[startDate]&end=[endDate]</td>
+                                    </tr>
+                                    <tr>
+                                       <th scope="row">Method</th>
+                                       <td>GET</td>
+                                    </tr>
+                                    <tr>
+                                       <th scope="row">Headers</th>
+                                       <td>None</td>
+                                    </tr>
+                                 </tbody>
+                                  <thead class="thead-dark">
+                                    <tr>
+                                       <th scope="col" colspan="3">Output</th>
+                                    </tr>
+                                 </thead>
+                                  <tr>
+                                       <th scope="row">Headers</th>
+                                       <td>'number' represents the number of cars</td>
+                                    </tr>
+
+                                  <thead class="thead-dark">
+                                    <tr>
+                                       <th scope="col" colspan="3">Example</th>
+                                    </tr>
+                                 </thead>
+                                  <tr>
+                                       <th scope="row">Request</th>
+                                       <td>GET /park/number?start=2017-10-1&end=2018-1-1</td>
+                                    </tr>
+                                  <tr>
+                                       <th scope="row">Response</th>
+                                       <td>[number:21] in response headers</td>
+                                    </tr>
+                              </table>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="row">
+                        <div class="col-md-12">
+                           <div class="bgc-white bd bdrs-3 p-20 mB-20">
+                              <h4 class="c-grey-900 mB-20">2.</h4>
+                              <p>Return history total park time (hours) of all cars and total parking fee ($) within a time span</p>
+                              <table class="table">
+                                 <thead class="thead-dark">
+                                    <tr>
+                                       <th scope="col" colspan="2">Input</th>
+                                    </tr>
+                                 </thead>
+                                 <tbody>
+                                    <tr>
+                                       <th scope="row">URL</th>
+                                       <td>/park/income?start=[startDate]&end=[endDate]</td>
+                                    </tr>
+                                    <tr>
+                                       <th scope="row">Method</th>
+                                       <td>GET</td>
+                                    </tr>
+                                    <tr>
+                                       <th scope="row">Headers</th>
+                                       <td>None</td>
+                                    </tr>
+                                 </tbody>
+                                  <thead class="thead-dark">
+                                    <tr>
+                                       <th scope="col" colspan="3">Output</th>
+                                    </tr>
+                                 </thead>
+                                  <tr>
+                                       <th scope="row">Headers</th>
+                                       <td>'totaltime' represents the total park time<br>'income' represents the total parking fee</td>
+                                    </tr>
+
+                                  <thead class="thead-dark">
+                                    <tr>
+                                       <th scope="col" colspan="3">Example</th>
+                                    </tr>
+                                 </thead>
+                                  <tr>
+                                       <th scope="row">Request</th>
+                                       <td>GET /park/income?start=2017-10-1&end=2018-1-1</td>
+                                    </tr>
+                                  <tr>
+                                       <th scope="row">Response</th>
+                                       <td>[income:683; totaltime:439]</td>
+                                    </tr>
+                              </table>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="row">
+                        <div class="col-md-12">
+                           <div class="bgc-white bd bdrs-3 p-20 mB-20">
+                              <h4 class="c-grey-900 mB-20">3.</h4>
+                              <p>Return the usage rate of the parking lot within a time span, the formula is Time(minutes)/(number of park spots*24*60)</p>
+                              <table class="table">
+                                 <thead class="thead-dark">
+                                    <tr>
+                                       <th scope="col" colspan="2">Input</th>
+                                    </tr>
+                                 </thead>
+                                 <tbody>
+                                    <tr>
+                                       <th scope="row">URL</th>
+                                       <td>/park/usage?start=[startDate]&end=[endDate]</td>
+                                    </tr>
+                                    <tr>
+                                       <th scope="row">Method</th>
+                                       <td>GET</td>
+                                    </tr>
+                                    <tr>
+                                       <th scope="row">Headers</th>
+                                       <td>None</td>
+                                    </tr>
+                                 </tbody>
+                                  <thead class="thead-dark">
+                                    <tr>
+                                       <th scope="col" colspan="3">Output</th>
+                                    </tr>
+                                 </thead>
+                                  <tr>
+                                       <th scope="row">Headers</th>
+                                       <td>'usage' represents the usage rate</td>
+                                    </tr>
+
+                                  <thead class="thead-dark">
+                                    <tr>
+                                       <th scope="col" colspan="3">Example</th>
+                                    </tr>
+                                 </thead>
+                                  <tr>
+                                       <th scope="row">Request</th>
+                                       <td>GET /park/usage?start=2017-10-1&end=2018-1-1</td>
+                                    </tr>
+                                  <tr>
+                                       <th scope="row">Response</th>
+                                       <td>[usage:0.021]</td>
+                                    </tr>
+                              </table>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="row">
+                        <div class="col-md-12">
+                           <div class="bgc-white bd bdrs-3 p-20 mB-20">
+                              <h4 class="c-grey-900 mB-20">4.</h4>
+                              <p>Return the mean park time (minutes/day) for a user within a time span</p>
+                              <table class="table">
+                                 <thead class="thead-dark">
+                                    <tr>
+                                       <th scope="col" colspan="2">Input</th>
+                                    </tr>
+                                 </thead>
+                                 <tbody>
+                                    <tr>
+                                       <th scope="row">URL</th>
+                                       <td>/park/parktime</td>
+                                    </tr>
+                                    <tr>
+                                       <th scope="row">Method</th>
+                                       <td>GET</td>
+                                    </tr>
+                                    <tr>
+                                       <th scope="row">Headers</th>
+                                       <td>None</td>
+                                    </tr>
+                                 </tbody>
+                                  <thead class="thead-dark">
+                                    <tr>
+                                       <th scope="col" colspan="3">Output</th>
+                                    </tr>
+                                 </thead>
+                                  <tr>
+                                       <th scope="row">Headers</th>
+                                       <td>'meantime' represents the mean park time</td>
+                                    </tr>
+
+                                  <thead class="thead-dark">
+                                    <tr>
+                                       <th scope="col" colspan="3">Example</th>
+                                    </tr>
+                                 </thead>
+                                  <tr>
+                                       <th scope="row">Request</th>
+                                       <td>GET /park/parktime</td>
+                                    </tr>
+                                  <tr>
+                                       <th scope="row">Response</th>
+                                       <td>[parktime:124]</td>
+                                    </tr>
+                              </table>
+                           </div>
+                        </div>
+                     </div>
+
+                      <h4 class="c-grey-900 mT-10 mB-30">Web Services Sharing Data in JSON Format</h4>
+
+                      <div class="row">
+                         <div class="col-md-12">
+                            <div class="bgc-white bd bdrs-3 p-20 mB-20">
+                               <h4 class="c-grey-900 mB-20">5.</h4>
+                               <p>Return cars real time coordinations</p>
+                               <table class="table">
+                                  <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="2">Input</th>
+                                     </tr>
+                                  </thead>
+                                  <tbody>
+                                     <tr>
+                                        <th scope="row">URL</th>
+                                        <td>/park/positions</td>
+                                     </tr>
+                                     <tr>
+                                        <th scope="row">Method</th>
+                                        <td>GET</td>
+                                     </tr>
+                                     <tr>
+                                        <th scope="row">Headers</th>
+                                        <td>None</td>
+                                     </tr>
+                                  </tbody>
+                                   <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="3">Output</th>
+                                     </tr>
+                                  </thead>
+                                   <tr>
+                                        <th scope="row">Application/JSON</th>
+                                        <td>Cars' coordinations in Json format</td>
+                                     </tr>
+
+                                   <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="3">Example</th>
+                                     </tr>
+                                  </thead>
+                                   <tr>
+                                        <th scope="row">Request</th>
+                                        <td>GET /park/positions</td>
+                                     </tr>
+                                   <tr>
+                                        <th scope="row">Response</th>
+                                        <td>{<br/>{<br/>"xCoord":137,<br/>"carId":"558AKV",<br/>"yCoord":232,<br/>"rot":0<br/>},<br/>{<br/>"xCoord":762,<br/>"carId":"584ARY",<br/>"yCoord":137,<br/>"rot":90<br/>}<br/>}<br/>
+                                        </td>
+                                     </tr>
+                               </table>
+                            </div>
+                         </div>
+                      </div>
+                      <div class="row" id='API6'>
+                         <div class="col-md-12">
+                            <div class="bgc-white bd bdrs-3 p-20 mB-20">
+                               <h4 class="c-grey-900 mB-20">6.</h4>
+                               <p>Return real time weather provided by external web service in Json format</p>
+                               <table class="table">
+                                  <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="2">Input</th>
+                                     </tr>
+                                  </thead>
+                                  <tbody>
+                                     <tr>
+                                        <th scope="row">URL</th>
+                                        <td>/park/weather</td>
+                                     </tr>
+                                     <tr>
+                                        <th scope="row">Method</th>
+                                        <td>GET</td>
+                                     </tr>
+                                     <tr>
+                                        <th scope="row">Headers</th>
+                                        <td>None</td>
+                                     </tr>
+                                  </tbody>
+                                   <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="3">Output</th>
+                                     </tr>
+                                  </thead>
+                                   <tr>
+                                        <th scope="row">Application/JSON</th>
+                                        <td>Weather information in Json format</td>
+                                     </tr>
+
+                                   <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="3">Example</th>
+                                     </tr>
+                                  </thead>
+                                   <tr>
+                                        <th scope="row">Request</th>
+                                        <td>GET /park/weather</td>
+                                     </tr>
+                                   <tr>
+                                        <th scope="row">Response</th>
+                                        <td>{
+   "wind":{
+      "speed":4.7
+   },
+   "coord":{
+      "lat":47.17,
+      "lon":-122.52
+   },
+   "visibility":16093,
+   "main":{
+      "temp_max":64.4,
+      "pressure":1024,
+      "humidity":48,
+      "temp_min":55.99,
+      "temp":60.84
+   },
+   "weather":[
+      {
+         "main":"Clear",
+         "description":"clear sky",
+         "icon":"01n",
+         "id":800
+      }
+   ],
+   "name":"Tacoma"
+}</td>
+                                     </tr>
+                               </table>
+                            </div>
+                         </div>
+                      </div>
+
+                      <h4 class="c-grey-900 mT-10 mB-30">Web Services Sharing Data in XML Format</h4>
+
+                      <div class="row" id='API7'>
+                         <div class="col-md-12">
+                            <div class="bgc-white bd bdrs-3 p-20 mB-20">
+                               <h4 class="c-grey-900 mB-20">7.</h4>
+                               <p>Return the gas prices provided by external web service in xml format</p>
+                               <table class="table">
+                                  <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="2">Input</th>
+                                     </tr>
+                                  </thead>
+                                  <tbody>
+                                     <tr>
+                                        <th scope="row">URL</th>
+                                        <td>/park/gas</td>
+                                     </tr>
+                                     <tr>
+                                        <th scope="row">Method</th>
+                                        <td>GET</td>
+                                     </tr>
+                                     <tr>
+                                        <th scope="row">Headers</th>
+                                        <td>None</td>
+                                     </tr>
+                                  </tbody>
+                                   <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="3">Output</th>
+                                     </tr>
+                                  </thead>
+                                   <tr>
+                                        <th scope="row">Application/Json</th>
+                                        <td>Gas prices in xml format</td>
+                                     </tr>
+
+                                   <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="3">Example</th>
+                                     </tr>
+                                  </thead>
+                                   <tr>
+                                        <th scope="row">Request</th>
+                                        <td>GET /park/gas</td>
+                                     </tr>
+                                   <tr>
+                                        <th scope="row">Response</th>
+                                        <td>&lt;xml&gt;
+&lt;gasPrices&gt;
+   &lt;prePrice type="str"&gt;3.95&lt;/prePrice&gt;
+   &lt;midPrice type="str"&gt;3.85&lt;/midPrice&gt;
+   &lt;regPrice type="str"&gt;3.73&lt;/regPrice&gt;
+&lt;gasPrices&gt;&lt;/xml&gt;</td>
+                                     </tr>
+                               </table>
+                            </div>
+                         </div>
+                      </div>
+
+                      <h4 class="c-grey-900 mT-10 mB-30">Web Service Using 'DELETE' HTTP Method</h4>
+
+                      <div class="row">
+                         <div class="col-md-12">
+                            <div class="bgc-white bd bdrs-3 p-20 mB-20">
+                               <h4 class="c-grey-900 mB-20">8.</h4>
+                               <p>Delete a user from the database, and user's car will be deleted as well</p>
+                               <table class="table">
+                                  <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="2">Input</th>
+                                     </tr>
+                                  </thead>
+                                  <tbody>
+                                     <tr>
+                                        <th scope="row">URL</th>
+                                        <td>/park/delete</td>
+                                     </tr>
+                                     <tr>
+                                        <th scope="row">Method</th>
+                                        <td>DELETE</td>
+                                     </tr>
+                                     <tr>
+                                        <th scope="row">Headers</th>
+                                        <td>'password' represents the password of the to be deleted user</td>
+                                     </tr>
+                                  </tbody>
+                                   <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="3">Output</th>
+                                     </tr>
+                                  </thead>
+                                   <tr>
+                                        <th scope="row">Headers</th>
+                                        <td>status code: 200</td>
+                                     </tr>
+
+                                   <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="3">Example</th>
+                                     </tr>
+                                  </thead>
+                                   <tr>
+                                        <th scope="row">Request</th>
+                                        <td>DELETE /park/delete</td>
+                                     </tr>
+                                   <tr>
+                                        <th scope="row">Response</th>
+                                        <td>status code:200</td>
+                                     </tr>
+                               </table>
+                            </div>
+                         </div>
+                      </div>
+
+                      <h4 class="c-grey-900 mT-10 mB-30">Web Service Using 'PUT' HTTP Method</h4>
+
+                      <div class="row">
+                         <div class="col-md-12">
+                            <div class="bgc-white bd bdrs-3 p-20 mB-20">
+                               <h4 class="c-grey-900 mB-20">9.</h4>
+                               <p>Update the password of a user</p>
+                               <table class="table">
+                                  <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="2">Input</th>
+                                     </tr>
+                                  </thead>
+                                  <tbody>
+                                     <tr>
+                                        <th scope="row">URL</th>
+                                        <td>/park/change</td>
+                                     </tr>
+                                     <tr>
+                                        <th scope="row">Method</th>
+                                        <td>PUT</td>
+                                     </tr>
+                                     <tr>
+                                        <th scope="row">Headers</th>
+                                        <td>'oldpassword' represents the old password of a user<br>'newpassword' represents the new password of a user</td>
+                                     </tr>
+                                  </tbody>
+                                   <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="3">Output</th>
+                                     </tr>
+                                  </thead>
+                                   <tr>
+                                        <th scope="row">Headers</th>
+                                        <td>status code:200</td>
+                                     </tr>
+
+                                   <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="3">Example</th>
+                                     </tr>
+                                  </thead>
+                                   <tr>
+                                        <th scope="row">Request</th>
+                                        <td>PUT /park/change</td>
+                                     </tr>
+                                   <tr>
+                                        <th scope="row">Response</th>
+                                        <td>status code:200</td>
+                                     </tr>
+                               </table>
+                            </div>
+                         </div>
+                      </div>
+
+                      <h4 class="c-grey-900 mT-10 mB-30">Web Services Integrating Web Service from Other Service Providers</h4>
+
+                      <div class="row">
+                         <div class="col-md-12">
+                            <div class="bgc-white bd bdrs-3 p-20 mB-20">
+                               <h4 class="c-grey-900 mB-20"><a href='#API6'>API 6<a></h4>
+                               <p>Return real time weather provided by external web service in Json format</p>
+                            </div>
+                         </div>
+                      </div>
+                      <div class="row">
+                         <div class="col-md-12">
+                            <div class="bgc-white bd bdrs-3 p-20 mB-20">
+                               <h4 class="c-grey-900 mB-20" ><a href='#API7'>API 7</a></h4>
+                               <p>Return the gas prices provided by external web service in xml format</p>
+                            </div>
+                         </div>
+                      </div>
+                      <div class="row">
+                         <div class="col-md-12">
+                            <div class="bgc-white bd bdrs-3 p-20 mB-20">
+                               <h4 class="c-grey-900 mB-20">10.</h4>
+                               <p>Send an email of history parking records to a user</p>
+                               <table class="table">
+                                  <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="2">Input</th>
+                                     </tr>
+                                  </thead>
+                                  <tbody>
+                                     <tr>
+                                        <th scope="row">URL</th>
+                                        <td>/park/record</td>
+                                     </tr>
+                                     <tr>
+                                        <th scope="row">Method</th>
+                                        <td>GET</td>
+                                     </tr>
+                                     <tr>
+                                        <th scope="row">Headers</th>
+                                        <td>None</td>
+                                     </tr>
+                                  </tbody>
+                                   <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="3">Output</th>
+                                     </tr>
+                                  </thead>
+                                   <tr>
+                                        <th scope="row">Headers</th>
+                                        <td>Status code:200</td>
+                                     </tr>
+
+                                   <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="3">Example</th>
+                                     </tr>
+                                  </thead>
+                                   <tr>
+                                        <th scope="row">Request</th>
+                                        <td>GET /park/record</td>
+                                     </tr>
+                                   <tr>
+                                        <th scope="row">Response</th>
+                                        <td>An email is sent to a user</td>
+                                     </tr>
+                               </table>
+                            </div>
+                         </div>
+                      </div>
+                      <div class="row">
+                         <div class="col-md-12">
+                            <div class="bgc-white bd bdrs-3 p-20 mB-20">
+                               <h4 class="c-grey-900 mB-20">11.</h4>
+                               <p>Send a SMS of notification to a user for reminding the parking time</p>
+                               <table class="table">
+                                  <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="2">Input</th>
+                                     </tr>
+                                  </thead>
+                                  <tbody>
+                                     <tr>
+                                        <th scope="row">URL</th>
+                                        <td>/</td>
+                                     </tr>
+                                     <tr>
+                                        <th scope="row">Method</th>
+                                        <td>GET</td>
+                                     </tr>
+                                     <tr>
+                                        <th scope="row">Headers</th>
+                                        <td>None</td>
+                                     </tr>
+                                  </tbody>
+                                   <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="3">Output</th>
+                                     </tr>
+                                  </thead>
+                                   <tr>
+                                        <th scope="row">SMS</th>
+                                        <td>A message is sent to a user's phone automatically</td>
+                                     </tr>
+
+                                   <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="3">Example</th>
+                                     </tr>
+                                  </thead>
+                                   <tr>
+                                        <th scope="row">Request</th>
+                                        <td>The event is triggered by server</td>
+                                     </tr>
+                                   <tr>
+                                        <th scope="row">Response</th>
+                                        <td>A message is sent to a user</td>
+                                     </tr>
+                               </table>
+                            </div>
+                         </div>
+                      </div>
+
+                      <h4 class="c-grey-900 mT-10 mB-30">Other APIs</h4>
+
+                      <div class="row">
+                         <div class="col-md-12">
+                            <div class="bgc-white bd bdrs-3 p-20 mB-20">
+                               <h4 class="c-grey-900 mB-20">12.</h4>
+                               <p>Return the shortest path to an exit for a car (or a user)</p>
+                               <table class="table">
+                                  <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="2">Input</th>
+                                     </tr>
+                                  </thead>
+                                  <tbody>
+                                     <tr>
+                                        <th scope="row">URL</th>
+                                        <td>/park/navigation(?user)</td>
+                                     </tr>
+                                     <tr>
+                                        <th scope="row">Method</th>
+                                        <td>GET</td>
+                                     </tr>
+                                     <tr>
+                                        <th scope="row">Headers</th>
+                                        <td>None</td>
+                                     </tr>
+                                  </tbody>
+                                   <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="3">Output</th>
+                                     </tr>
+                                  </thead>
+                                   <tr>
+                                        <th scope="row">Body</th>
+                                        <td>Path of coordinations in the form of list</td>
+                                     </tr>
+
+                                   <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="3">Example</th>
+                                     </tr>
+                                  </thead>
+                                   <tr>
+                                        <th scope="row">Request</th>
+                                        <td>GET /park/navigation</td>
+                                     </tr>
+                                   <tr>
+                                        <th scope="row">Response</th>
+                                        <td>[[522, 297], [602, 297], [682, 297], [762, 297], [842, 297], [983, 232], [996, 65]]</td>
+                                     </tr>
+                               </table>
+                            </div>
+                         </div>
+                      </div>
+                      <div class="row">
+                         <div class="col-md-12">
+                            <div class="bgc-white bd bdrs-3 p-20 mB-20">
+                               <h4 class="c-grey-900 mB-20">13.</h4>
+                               <p>Return a shortest path to the recommended park spot for a car</p>
+                               <table class="table">
+                                  <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="2">Input</th>
+                                     </tr>
+                                  </thead>
+                                  <tbody>
+                                     <tr>
+                                        <th scope="row">URL</th>
+                                        <td>/park/recommend</td>
+                                     </tr>
+                                     <tr>
+                                        <th scope="row">Method</th>
+                                        <td>GET</td>
+                                     </tr>
+                                     <tr>
+                                        <th scope="row">Headers</th>
+                                        <td>None</td>
+                                     </tr>
+                                  </tbody>
+                                   <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="3">Output</th>
+                                     </tr>
+                                  </thead>
+                                   <tr>
+                                        <th scope="row">Body</th>
+                                        <td>Path of coordinations in the form of list</td>
+                                     </tr>
+
+                                   <thead class="thead-dark">
+                                     <tr>
+                                        <th scope="col" colspan="3">Example</th>
+                                     </tr>
+                                  </thead>
+                                   <tr>
+                                        <th scope="row">Request</th>
+                                        <td>GET /park/recommend</td>
+                                     </tr>
+                                   <tr>
+                                        <th scope="row">Response</th>
+                                        <td>[[522, 449]]</td>
+                                     </tr>
+                               </table>
+                            </div>
+                         </div>
+                      </div>
+                  </div>
+               </div>
+            </main>
+            <footer class="bdT ta-c p-30 lh-0 fsz-sm c-grey-600">Photo by NeONBRAND on Unsplash</footer>
+         </div>
+      </div>
+      <script type="text/javascript" src={% static "vendor.js" %}></script>
+      <script type="text/javascript" src={% static "bundle.js" %}></script>
+   </body>
+</html>

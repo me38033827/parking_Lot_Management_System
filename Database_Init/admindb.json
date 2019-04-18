@@ -1,0 +1,10 @@
+[
+    {
+        "model": "parkManagement.Admin",
+        "pk": 0,
+        "fields": {
+            "phoneNumber": 2974556594,
+            "password": "2173473d6643cad7e46274a317dde1a6f235fc771299332cebd19b9146149225"
+        }
+    }
+]

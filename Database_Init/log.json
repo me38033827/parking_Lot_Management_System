@@ -1,0 +1,2462 @@
+[
+    {
+        "enterTime": "08:56:40",
+        "car_id": "584ARY",
+        "exitTime": "17:41:45",
+        "date": "2017-01-07"
+    },
+    {
+        "enterTime": "11:30:37",
+        "car_id": "298AHU",
+        "exitTime": "12:50:16",
+        "date": "2019-01-22"
+    },
+    {
+        "enterTime": "21:41:48",
+        "car_id": "584ARY",
+        "exitTime": "03:24:57",
+        "date": "2019-02-05"
+    },
+    {
+        "enterTime": "09:46:29",
+        "car_id": "975AMF",
+        "exitTime": "16:51:04",
+        "date": "2018-09-02"
+    },
+    {
+        "enterTime": "19:17:58",
+        "car_id": "584ARY",
+        "exitTime": "03:59:39",
+        "date": "2019-02-16"
+    },
+    {
+        "enterTime": "10:40:17",
+        "car_id": "266AGJ",
+        "exitTime": "14:07:59",
+        "date": "2019-01-17"
+    },
+    {
+        "enterTime": "14:09:04",
+        "car_id": "975APR",
+        "exitTime": "22:16:55",
+        "date": "2018-03-27"
+    },
+    {
+        "enterTime": "06:57:02",
+        "car_id": "644AJT",
+        "exitTime": "07:11:43",
+        "date": "2017-12-02"
+    },
+    {
+        "enterTime": "10:40:44",
+        "car_id": "266AGJ",
+        "exitTime": "12:45:05",
+        "date": "2019-02-17"
+    },
+    {
+        "enterTime": "09:38:32",
+        "car_id": "266AGJ",
+        "exitTime": "15:53:14",
+        "date": "2018-07-30"
+    },
+    {
+        "enterTime": "15:01:24",
+        "car_id": "644AJT",
+        "exitTime": "17:49:34",
+        "date": "2018-09-13"
+    },
+    {
+        "enterTime": "15:37:51",
+        "car_id": "266AGJ",
+        "exitTime": "00:04:21",
+        "date": "2017-03-14"
+    },
+    {
+        "enterTime": "09:42:31",
+        "car_id": "584ARY",
+        "exitTime": "13:19:11",
+        "date": "2017-07-31"
+    },
+    {
+        "enterTime": "22:07:17",
+        "car_id": "584ARY",
+        "exitTime": "23:14:30",
+        "date": "2019-01-23"
+    },
+    {
+        "enterTime": "15:41:53",
+        "car_id": "910ANP",
+        "exitTime": "16:40:26",
+        "date": "2018-01-14"
+    },
+    {
+        "enterTime": "18:16:06",
+        "car_id": "644AJT",
+        "exitTime": "00:44:04",
+        "date": "2019-02-27"
+    },
+    {
+        "enterTime": "19:06:50",
+        "car_id": "975AMF",
+        "exitTime": "02:14:57",
+        "date": "2018-05-20"
+    },
+    {
+        "enterTime": "09:50:32",
+        "car_id": "144AAR ",
+        "exitTime": "13:43:28",
+        "date": "2018-12-03"
+    },
+    {
+        "enterTime": "20:31:18",
+        "car_id": "144AAR ",
+        "exitTime": "04:57:53",
+        "date": "2018-12-17"
+    },
+    {
+        "enterTime": "07:13:26",
+        "car_id": "266AGJ",
+        "exitTime": "15:41:27",
+        "date": "2017-06-10"
+    },
+    {
+        "enterTime": "11:36:00",
+        "car_id": "975AMF",
+        "exitTime": "16:32:38",
+        "date": "2017-05-15"
+    },
+    {
+        "enterTime": "12:46:14",
+        "car_id": "298AHU",
+        "exitTime": "16:07:01",
+        "date": "2019-02-19"
+    },
+    {
+        "enterTime": "21:48:11",
+        "car_id": "975APR",
+        "exitTime": "22:22:05",
+        "date": "2018-11-06"
+    },
+    {
+        "enterTime": "07:26:07",
+        "car_id": "975APR",
+        "exitTime": "09:00:41",
+        "date": "2019-01-27"
+    },
+    {
+        "enterTime": "20:51:05",
+        "car_id": "975APR",
+        "exitTime": "22:49:51",
+        "date": "2019-02-27"
+    },
+    {
+        "enterTime": "21:53:36",
+        "car_id": "584ARY",
+        "exitTime": "04:28:24",
+        "date": "2019-02-23"
+    },
+    {
+        "enterTime": "07:08:58",
+        "car_id": "975AMF",
+        "exitTime": "15:05:25",
+        "date": "2017-10-16"
+    },
+    {
+        "enterTime": "09:03:30",
+        "car_id": "298AHU",
+        "exitTime": "13:48:58",
+        "date": "2019-01-15"
+    },
+    {
+        "enterTime": "07:03:46",
+        "car_id": "558AKV",
+        "exitTime": "15:10:12",
+        "date": "2019-02-18"
+    },
+    {
+        "enterTime": "11:58:32",
+        "car_id": "644AJT",
+        "exitTime": "13:05:52",
+        "date": "2018-10-29"
+    },
+    {
+        "enterTime": "13:25:28",
+        "car_id": "899AFK",
+        "exitTime": "15:38:25",
+        "date": "2017-02-22"
+    },
+    {
+        "enterTime": "19:12:33",
+        "car_id": "584ARY",
+        "exitTime": "01:26:24",
+        "date": "2017-03-03"
+    },
+    {
+        "enterTime": "22:00:42",
+        "car_id": "584ARY",
+        "exitTime": "00:43:34",
+        "date": "2017-01-02"
+    },
+    {
+        "enterTime": "13:31:28",
+        "car_id": "975AMF",
+        "exitTime": "21:55:51",
+        "date": "2018-11-10"
+    },
+    {
+        "enterTime": "15:04:13",
+        "car_id": "298AHU",
+        "exitTime": "15:46:23",
+        "date": "2017-10-09"
+    },
+    {
+        "enterTime": "22:10:22",
+        "car_id": "298AHU",
+        "exitTime": "02:02:20",
+        "date": "2018-06-09"
+    },
+    {
+        "enterTime": "08:39:36",
+        "car_id": "558AKV",
+        "exitTime": "16:38:11",
+        "date": "2019-02-10"
+    },
+    {
+        "enterTime": "22:50:30",
+        "car_id": "644AJT",
+        "exitTime": "05:05:55",
+        "date": "2019-01-05"
+    },
+    {
+        "enterTime": "12:38:41",
+        "car_id": "899AFK",
+        "exitTime": "12:40:57",
+        "date": "2018-04-07"
+    },
+    {
+        "enterTime": "14:31:20",
+        "car_id": "298AHU",
+        "exitTime": "19:02:08",
+        "date": "2019-02-27"
+    },
+    {
+        "enterTime": "07:55:36",
+        "car_id": "558AKV",
+        "exitTime": "12:30:14",
+        "date": "2017-05-29"
+    },
+    {
+        "enterTime": "14:18:04",
+        "car_id": "266AGJ",
+        "exitTime": "22:23:34",
+        "date": "2017-09-02"
+    },
+    {
+        "enterTime": "13:47:53",
+        "car_id": "144AAR ",
+        "exitTime": "17:44:11",
+        "date": "2019-01-22"
+    },
+    {
+        "enterTime": "10:21:44",
+        "car_id": "298AHU",
+        "exitTime": "16:11:38",
+        "date": "2019-01-09"
+    },
+    {
+        "enterTime": "08:42:35",
+        "car_id": "266AGJ",
+        "exitTime": "10:23:46",
+        "date": "2017-04-29"
+    },
+    {
+        "enterTime": "07:44:53",
+        "car_id": "298AHU",
+        "exitTime": "12:30:51",
+        "date": "2019-01-16"
+    },
+    {
+        "enterTime": "14:49:26",
+        "car_id": "266AGJ",
+        "exitTime": "15:15:32",
+        "date": "2018-06-17"
+    },
+    {
+        "enterTime": "16:26:37",
+        "car_id": "266AGJ",
+        "exitTime": "01:25:16",
+        "date": "2019-02-16"
+    },
+    {
+        "enterTime": "16:56:19",
+        "car_id": "899AFK",
+        "exitTime": "20:29:59",
+        "date": "2017-04-02"
+    },
+    {
+        "enterTime": "18:00:55",
+        "car_id": "558AKV",
+        "exitTime": "22:17:30",
+        "date": "2018-07-13"
+    },
+    {
+        "enterTime": "11:46:45",
+        "car_id": "975APR",
+        "exitTime": "16:55:00",
+        "date": "2018-03-26"
+    },
+    {
+        "enterTime": "22:33:04",
+        "car_id": "910ANP",
+        "exitTime": "06:14:45",
+        "date": "2017-10-08"
+    },
+    {
+        "enterTime": "06:47:08",
+        "car_id": "975AMF",
+        "exitTime": "07:57:46",
+        "date": "2017-12-22"
+    },
+    {
+        "enterTime": "13:58:02",
+        "car_id": "298AHU",
+        "exitTime": "15:44:57",
+        "date": "2018-09-03"
+    },
+    {
+        "enterTime": "13:09:18",
+        "car_id": "975APR",
+        "exitTime": "17:35:12",
+        "date": "2019-01-29"
+    },
+    {
+        "enterTime": "19:39:01",
+        "car_id": "975APR",
+        "exitTime": "23:45:39",
+        "date": "2017-01-03"
+    },
+    {
+        "enterTime": "19:03:27",
+        "car_id": "558AKV",
+        "exitTime": "22:05:32",
+        "date": "2019-01-21"
+    },
+    {
+        "enterTime": "08:19:09",
+        "car_id": "144AAR ",
+        "exitTime": "15:20:12",
+        "date": "2019-02-28"
+    },
+    {
+        "enterTime": "14:32:32",
+        "car_id": "644AJT",
+        "exitTime": "23:12:25",
+        "date": "2018-02-06"
+    },
+    {
+        "enterTime": "10:38:36",
+        "car_id": "975APR",
+        "exitTime": "12:06:28",
+        "date": "2018-02-07"
+    },
+    {
+        "enterTime": "15:37:46",
+        "car_id": "899AFK",
+        "exitTime": "19:22:10",
+        "date": "2019-02-21"
+    },
+    {
+        "enterTime": "15:13:32",
+        "car_id": "144AAR ",
+        "exitTime": "22:16:35",
+        "date": "2018-07-11"
+    },
+    {
+        "enterTime": "11:22:10",
+        "car_id": "144AAR ",
+        "exitTime": "18:44:35",
+        "date": "2019-01-18"
+    },
+    {
+        "enterTime": "16:25:34",
+        "car_id": "899AFK",
+        "exitTime": "20:12:05",
+        "date": "2019-01-05"
+    },
+    {
+        "enterTime": "21:04:59",
+        "car_id": "144AAR ",
+        "exitTime": "01:18:38",
+        "date": "2017-12-05"
+    },
+    {
+        "enterTime": "07:59:55",
+        "car_id": "558AKV",
+        "exitTime": "10:36:07",
+        "date": "2018-06-22"
+    },
+    {
+        "enterTime": "12:20:56",
+        "car_id": "298AHU",
+        "exitTime": "16:29:24",
+        "date": "2018-12-25"
+    },
+    {
+        "enterTime": "10:59:15",
+        "car_id": "558AKV",
+        "exitTime": "13:09:20",
+        "date": "2019-01-29"
+    },
+    {
+        "enterTime": "11:53:03",
+        "car_id": "144AAR ",
+        "exitTime": "19:22:19",
+        "date": "2019-02-10"
+    },
+    {
+        "enterTime": "18:04:31",
+        "car_id": "558AKV",
+        "exitTime": "20:18:52",
+        "date": "2018-11-07"
+    },
+    {
+        "enterTime": "18:14:14",
+        "car_id": "910ANP",
+        "exitTime": "01:25:34",
+        "date": "2018-09-13"
+    },
+    {
+        "enterTime": "19:01:20",
+        "car_id": "144AAR ",
+        "exitTime": "19:01:21",
+        "date": "2017-05-17"
+    },
+    {
+        "enterTime": "13:56:23",
+        "car_id": "298AHU",
+        "exitTime": "22:55:58",
+        "date": "2017-06-11"
+    },
+    {
+        "enterTime": "06:29:08",
+        "car_id": "144AAR ",
+        "exitTime": "13:49:13",
+        "date": "2019-02-03"
+    },
+    {
+        "enterTime": "11:55:29",
+        "car_id": "298AHU",
+        "exitTime": "14:31:55",
+        "date": "2018-10-14"
+    },
+    {
+        "enterTime": "06:04:14",
+        "car_id": "644AJT",
+        "exitTime": "13:57:45",
+        "date": "2017-09-23"
+    },
+    {
+        "enterTime": "19:43:11",
+        "car_id": "975AMF",
+        "exitTime": "01:56:45",
+        "date": "2018-10-02"
+    },
+    {
+        "enterTime": "18:37:01",
+        "car_id": "899AFK",
+        "exitTime": "23:40:32",
+        "date": "2018-08-18"
+    },
+    {
+        "enterTime": "06:58:58",
+        "car_id": "910ANP",
+        "exitTime": "14:10:43",
+        "date": "2019-01-02"
+    },
+    {
+        "enterTime": "10:01:39",
+        "car_id": "910ANP",
+        "exitTime": "10:54:51",
+        "date": "2018-04-21"
+    },
+    {
+        "enterTime": "08:31:34",
+        "car_id": "144AAR ",
+        "exitTime": "10:19:10",
+        "date": "2018-08-05"
+    },
+    {
+        "enterTime": "22:54:19",
+        "car_id": "975APR",
+        "exitTime": "01:22:03",
+        "date": "2019-02-21"
+    },
+    {
+        "enterTime": "10:12:13",
+        "car_id": "910ANP",
+        "exitTime": "17:53:42",
+        "date": "2018-01-18"
+    },
+    {
+        "enterTime": "07:00:59",
+        "car_id": "558AKV",
+        "exitTime": "09:27:31",
+        "date": "2019-02-10"
+    },
+    {
+        "enterTime": "10:42:05",
+        "car_id": "558AKV",
+        "exitTime": "18:38:37",
+        "date": "2017-04-19"
+    },
+    {
+        "enterTime": "15:53:00",
+        "car_id": "910ANP",
+        "exitTime": "18:04:41",
+        "date": "2017-05-30"
+    },
+    {
+        "enterTime": "21:22:26",
+        "car_id": "975APR",
+        "exitTime": "01:34:06",
+        "date": "2018-08-09"
+    },
+    {
+        "enterTime": "10:38:11",
+        "car_id": "584ARY",
+        "exitTime": "13:18:59",
+        "date": "2019-01-18"
+    },
+    {
+        "enterTime": "14:43:31",
+        "car_id": "298AHU",
+        "exitTime": "22:07:27",
+        "date": "2017-02-16"
+    },
+    {
+        "enterTime": "16:02:43",
+        "car_id": "910ANP",
+        "exitTime": "19:01:13",
+        "date": "2017-08-18"
+    },
+    {
+        "enterTime": "06:55:27",
+        "car_id": "899AFK",
+        "exitTime": "11:01:32",
+        "date": "2018-04-06"
+    },
+    {
+        "enterTime": "15:53:15",
+        "car_id": "899AFK",
+        "exitTime": "23:39:10",
+        "date": "2019-01-25"
+    },
+    {
+        "enterTime": "09:51:02",
+        "car_id": "584ARY",
+        "exitTime": "12:31:19",
+        "date": "2018-07-09"
+    },
+    {
+        "enterTime": "07:47:23",
+        "car_id": "975APR",
+        "exitTime": "16:05:50",
+        "date": "2018-02-09"
+    },
+    {
+        "enterTime": "13:38:27",
+        "car_id": "266AGJ",
+        "exitTime": "17:06:03",
+        "date": "2018-12-05"
+    },
+    {
+        "enterTime": "22:49:09",
+        "car_id": "558AKV",
+        "exitTime": "23:43:17",
+        "date": "2019-02-12"
+    },
+    {
+        "enterTime": "08:42:42",
+        "car_id": "644AJT",
+        "exitTime": "10:32:18",
+        "date": "2017-07-08"
+    },
+    {
+        "enterTime": "10:13:12",
+        "car_id": "584ARY",
+        "exitTime": "11:36:15",
+        "date": "2019-01-14"
+    },
+    {
+        "enterTime": "08:54:08",
+        "car_id": "644AJT",
+        "exitTime": "10:24:56",
+        "date": "2019-02-17"
+    },
+    {
+        "enterTime": "13:22:23",
+        "car_id": "558AKV",
+        "exitTime": "15:35:45",
+        "date": "2017-03-06"
+    },
+    {
+        "enterTime": "16:58:43",
+        "car_id": "298AHU",
+        "exitTime": "01:25:11",
+        "date": "2018-05-24"
+    },
+    {
+        "enterTime": "06:22:46",
+        "car_id": "584ARY",
+        "exitTime": "07:30:21",
+        "date": "2017-04-13"
+    },
+    {
+        "enterTime": "10:37:09",
+        "car_id": "144AAR ",
+        "exitTime": "18:55:56",
+        "date": "2019-02-08"
+    },
+    {
+        "enterTime": "22:09:04",
+        "car_id": "144AAR ",
+        "exitTime": "00:27:17",
+        "date": "2018-02-10"
+    },
+    {
+        "enterTime": "12:38:27",
+        "car_id": "584ARY",
+        "exitTime": "18:39:36",
+        "date": "2018-01-17"
+    },
+    {
+        "enterTime": "13:12:18",
+        "car_id": "899AFK",
+        "exitTime": "18:05:03",
+        "date": "2017-08-25"
+    },
+    {
+        "enterTime": "19:55:30",
+        "car_id": "266AGJ",
+        "exitTime": "00:25:16",
+        "date": "2017-08-17"
+    },
+    {
+        "enterTime": "17:50:12",
+        "car_id": "899AFK",
+        "exitTime": "17:54:20",
+        "date": "2019-02-18"
+    },
+    {
+        "enterTime": "12:13:25",
+        "car_id": "644AJT",
+        "exitTime": "12:19:42",
+        "date": "2018-03-18"
+    },
+    {
+        "enterTime": "09:56:38",
+        "car_id": "558AKV",
+        "exitTime": "18:06:55",
+        "date": "2019-01-23"
+    },
+    {
+        "enterTime": "18:01:07",
+        "car_id": "975APR",
+        "exitTime": "02:30:58",
+        "date": "2017-07-14"
+    },
+    {
+        "enterTime": "18:29:05",
+        "car_id": "644AJT",
+        "exitTime": "22:56:51",
+        "date": "2019-01-18"
+    },
+    {
+        "enterTime": "22:17:14",
+        "car_id": "558AKV",
+        "exitTime": "23:20:02",
+        "date": "2017-07-29"
+    },
+    {
+        "enterTime": "20:44:57",
+        "car_id": "644AJT",
+        "exitTime": "22:57:32",
+        "date": "2019-02-25"
+    },
+    {
+        "enterTime": "06:09:56",
+        "car_id": "899AFK",
+        "exitTime": "13:21:42",
+        "date": "2017-06-14"
+    },
+    {
+        "enterTime": "12:51:51",
+        "car_id": "584ARY",
+        "exitTime": "14:33:03",
+        "date": "2018-05-16"
+    },
+    {
+        "enterTime": "07:08:57",
+        "car_id": "144AAR ",
+        "exitTime": "11:46:52",
+        "date": "2019-02-17"
+    },
+    {
+        "enterTime": "14:11:42",
+        "car_id": "266AGJ",
+        "exitTime": "16:02:33",
+        "date": "2018-05-07"
+    },
+    {
+        "enterTime": "06:15:43",
+        "car_id": "144AAR ",
+        "exitTime": "14:31:54",
+        "date": "2018-10-23"
+    },
+    {
+        "enterTime": "19:14:27",
+        "car_id": "975AMF",
+        "exitTime": "03:49:27",
+        "date": "2017-12-12"
+    },
+    {
+        "enterTime": "09:55:14",
+        "car_id": "144AAR ",
+        "exitTime": "13:28:22",
+        "date": "2018-10-19"
+    },
+    {
+        "enterTime": "21:23:45",
+        "car_id": "910ANP",
+        "exitTime": "22:33:41",
+        "date": "2017-05-18"
+    },
+    {
+        "enterTime": "14:04:54",
+        "car_id": "584ARY",
+        "exitTime": "21:46:13",
+        "date": "2018-12-17"
+    },
+    {
+        "enterTime": "22:30:28",
+        "car_id": "975APR",
+        "exitTime": "00:12:20",
+        "date": "2019-02-09"
+    },
+    {
+        "enterTime": "12:52:04",
+        "car_id": "899AFK",
+        "exitTime": "21:08:42",
+        "date": "2017-04-08"
+    },
+    {
+        "enterTime": "20:00:10",
+        "car_id": "975AMF",
+        "exitTime": "04:07:29",
+        "date": "2018-03-27"
+    },
+    {
+        "enterTime": "13:48:50",
+        "car_id": "584ARY",
+        "exitTime": "14:05:54",
+        "date": "2018-01-30"
+    },
+    {
+        "enterTime": "21:30:17",
+        "car_id": "644AJT",
+        "exitTime": "05:37:34",
+        "date": "2018-03-08"
+    },
+    {
+        "enterTime": "15:02:43",
+        "car_id": "144AAR ",
+        "exitTime": "19:14:24",
+        "date": "2018-10-10"
+    },
+    {
+        "enterTime": "12:27:39",
+        "car_id": "899AFK",
+        "exitTime": "15:44:03",
+        "date": "2019-02-14"
+    },
+    {
+        "enterTime": "21:35:57",
+        "car_id": "644AJT",
+        "exitTime": "00:31:11",
+        "date": "2017-04-29"
+    },
+    {
+        "enterTime": "19:59:34",
+        "car_id": "584ARY",
+        "exitTime": "04:03:37",
+        "date": "2018-04-02"
+    },
+    {
+        "enterTime": "12:01:49",
+        "car_id": "266AGJ",
+        "exitTime": "14:35:28",
+        "date": "2017-05-21"
+    },
+    {
+        "enterTime": "21:37:42",
+        "car_id": "584ARY",
+        "exitTime": "00:29:00",
+        "date": "2017-01-18"
+    },
+    {
+        "enterTime": "10:44:49",
+        "car_id": "975AMF",
+        "exitTime": "16:12:55",
+        "date": "2018-11-08"
+    },
+    {
+        "enterTime": "18:28:13",
+        "car_id": "144AAR ",
+        "exitTime": "19:35:46",
+        "date": "2019-02-16"
+    },
+    {
+        "enterTime": "14:57:07",
+        "car_id": "899AFK",
+        "exitTime": "20:21:32",
+        "date": "2018-06-08"
+    },
+    {
+        "enterTime": "14:59:20",
+        "car_id": "298AHU",
+        "exitTime": "23:00:59",
+        "date": "2017-08-11"
+    },
+    {
+        "enterTime": "18:54:25",
+        "car_id": "644AJT",
+        "exitTime": "03:49:28",
+        "date": "2018-08-22"
+    },
+    {
+        "enterTime": "18:05:50",
+        "car_id": "899AFK",
+        "exitTime": "21:39:43",
+        "date": "2018-12-15"
+    },
+    {
+        "enterTime": "17:07:17",
+        "car_id": "899AFK",
+        "exitTime": "23:36:07",
+        "date": "2019-02-05"
+    },
+    {
+        "enterTime": "19:51:56",
+        "car_id": "975APR",
+        "exitTime": "02:26:43",
+        "date": "2019-02-15"
+    },
+    {
+        "enterTime": "16:07:05",
+        "car_id": "144AAR ",
+        "exitTime": "00:08:10",
+        "date": "2017-06-16"
+    },
+    {
+        "enterTime": "14:15:44",
+        "car_id": "644AJT",
+        "exitTime": "17:46:05",
+        "date": "2017-10-28"
+    },
+    {
+        "enterTime": "18:16:52",
+        "car_id": "144AAR ",
+        "exitTime": "00:08:38",
+        "date": "2018-11-12"
+    },
+    {
+        "enterTime": "10:46:48",
+        "car_id": "644AJT",
+        "exitTime": "16:14:21",
+        "date": "2019-01-01"
+    },
+    {
+        "enterTime": "19:41:22",
+        "car_id": "144AAR ",
+        "exitTime": "23:59:24",
+        "date": "2017-01-13"
+    },
+    {
+        "enterTime": "15:21:18",
+        "car_id": "644AJT",
+        "exitTime": "21:38:09",
+        "date": "2018-03-07"
+    },
+    {
+        "enterTime": "07:57:32",
+        "car_id": "298AHU",
+        "exitTime": "14:48:03",
+        "date": "2017-12-13"
+    },
+    {
+        "enterTime": "09:49:01",
+        "car_id": "975APR",
+        "exitTime": "13:55:44",
+        "date": "2017-10-14"
+    },
+    {
+        "enterTime": "19:38:51",
+        "car_id": "910ANP",
+        "exitTime": "19:56:38",
+        "date": "2019-02-24"
+    },
+    {
+        "enterTime": "14:07:43",
+        "car_id": "558AKV",
+        "exitTime": "19:44:03",
+        "date": "2019-01-13"
+    },
+    {
+        "enterTime": "15:37:08",
+        "car_id": "266AGJ",
+        "exitTime": "18:56:49",
+        "date": "2018-08-02"
+    },
+    {
+        "enterTime": "14:20:00",
+        "car_id": "975AMF",
+        "exitTime": "21:00:19",
+        "date": "2017-07-09"
+    },
+    {
+        "enterTime": "13:13:32",
+        "car_id": "584ARY",
+        "exitTime": "19:32:30",
+        "date": "2019-02-07"
+    },
+    {
+        "enterTime": "09:16:36",
+        "car_id": "899AFK",
+        "exitTime": "10:51:32",
+        "date": "2019-01-16"
+    },
+    {
+        "enterTime": "22:49:20",
+        "car_id": "144AAR ",
+        "exitTime": "02:58:03",
+        "date": "2018-09-29"
+    },
+    {
+        "enterTime": "21:21:44",
+        "car_id": "144AAR ",
+        "exitTime": "01:52:20",
+        "date": "2017-09-28"
+    },
+    {
+        "enterTime": "07:03:51",
+        "car_id": "266AGJ",
+        "exitTime": "07:24:37",
+        "date": "2017-01-25"
+    },
+    {
+        "enterTime": "18:27:18",
+        "car_id": "266AGJ",
+        "exitTime": "18:58:31",
+        "date": "2017-02-18"
+    },
+    {
+        "enterTime": "16:04:17",
+        "car_id": "975AMF",
+        "exitTime": "16:46:20",
+        "date": "2017-12-18"
+    },
+    {
+        "enterTime": "11:48:49",
+        "car_id": "899AFK",
+        "exitTime": "20:06:08",
+        "date": "2019-02-01"
+    },
+    {
+        "enterTime": "07:43:47",
+        "car_id": "584ARY",
+        "exitTime": "10:09:54",
+        "date": "2019-01-11"
+    },
+    {
+        "enterTime": "11:55:47",
+        "car_id": "910ANP",
+        "exitTime": "13:48:08",
+        "date": "2017-08-13"
+    },
+    {
+        "enterTime": "22:28:25",
+        "car_id": "584ARY",
+        "exitTime": "03:53:22",
+        "date": "2019-01-24"
+    },
+    {
+        "enterTime": "22:42:04",
+        "car_id": "584ARY",
+        "exitTime": "07:37:58",
+        "date": "2019-01-14"
+    },
+    {
+        "enterTime": "18:38:54",
+        "car_id": "266AGJ",
+        "exitTime": "23:32:42",
+        "date": "2017-09-24"
+    },
+    {
+        "enterTime": "19:00:01",
+        "car_id": "644AJT",
+        "exitTime": "23:24:14",
+        "date": "2019-02-18"
+    },
+    {
+        "enterTime": "10:40:17",
+        "car_id": "298AHU",
+        "exitTime": "18:25:29",
+        "date": "2019-02-17"
+    },
+    {
+        "enterTime": "18:26:01",
+        "car_id": "975AMF",
+        "exitTime": "21:17:03",
+        "date": "2017-02-21"
+    },
+    {
+        "enterTime": "17:55:53",
+        "car_id": "266AGJ",
+        "exitTime": "18:20:20",
+        "date": "2019-02-06"
+    },
+    {
+        "enterTime": "09:59:14",
+        "car_id": "899AFK",
+        "exitTime": "15:33:40",
+        "date": "2018-05-28"
+    },
+    {
+        "enterTime": "20:52:40",
+        "car_id": "975APR",
+        "exitTime": "04:26:31",
+        "date": "2019-02-26"
+    },
+    {
+        "enterTime": "14:38:39",
+        "car_id": "975AMF",
+        "exitTime": "20:22:58",
+        "date": "2018-05-16"
+    },
+    {
+        "enterTime": "12:30:34",
+        "car_id": "975APR",
+        "exitTime": "12:48:08",
+        "date": "2019-02-11"
+    },
+    {
+        "enterTime": "22:49:16",
+        "car_id": "144AAR ",
+        "exitTime": "23:01:47",
+        "date": "2019-01-21"
+    },
+    {
+        "enterTime": "19:23:19",
+        "car_id": "899AFK",
+        "exitTime": "22:52:38",
+        "date": "2018-01-21"
+    },
+    {
+        "enterTime": "21:49:06",
+        "car_id": "144AAR ",
+        "exitTime": "03:53:12",
+        "date": "2019-02-20"
+    },
+    {
+        "enterTime": "09:44:00",
+        "car_id": "899AFK",
+        "exitTime": "15:01:06",
+        "date": "2019-01-11"
+    },
+    {
+        "enterTime": "09:01:07",
+        "car_id": "975APR",
+        "exitTime": "11:47:36",
+        "date": "2019-02-15"
+    },
+    {
+        "enterTime": "20:26:32",
+        "car_id": "584ARY",
+        "exitTime": "01:38:44",
+        "date": "2019-01-25"
+    },
+    {
+        "enterTime": "08:55:18",
+        "car_id": "899AFK",
+        "exitTime": "13:27:42",
+        "date": "2019-02-22"
+    },
+    {
+        "enterTime": "20:48:37",
+        "car_id": "975AMF",
+        "exitTime": "23:43:30",
+        "date": "2018-08-21"
+    },
+    {
+        "enterTime": "15:57:53",
+        "car_id": "144AAR ",
+        "exitTime": "20:49:03",
+        "date": "2017-02-03"
+    },
+    {
+        "enterTime": "14:13:44",
+        "car_id": "266AGJ",
+        "exitTime": "21:30:33",
+        "date": "2017-06-17"
+    },
+    {
+        "enterTime": "10:14:54",
+        "car_id": "144AAR ",
+        "exitTime": "18:56:45",
+        "date": "2019-02-28"
+    },
+    {
+        "enterTime": "06:18:52",
+        "car_id": "144AAR ",
+        "exitTime": "13:23:04",
+        "date": "2019-02-17"
+    },
+    {
+        "enterTime": "06:59:34",
+        "car_id": "910ANP",
+        "exitTime": "12:16:10",
+        "date": "2019-01-16"
+    },
+    {
+        "enterTime": "11:04:33",
+        "car_id": "558AKV",
+        "exitTime": "12:47:20",
+        "date": "2018-05-21"
+    },
+    {
+        "enterTime": "08:35:51",
+        "car_id": "144AAR ",
+        "exitTime": "12:31:38",
+        "date": "2018-11-29"
+    },
+    {
+        "enterTime": "21:44:18",
+        "car_id": "899AFK",
+        "exitTime": "03:47:49",
+        "date": "2017-11-23"
+    },
+    {
+        "enterTime": "08:20:52",
+        "car_id": "975APR",
+        "exitTime": "13:54:57",
+        "date": "2018-06-27"
+    },
+    {
+        "enterTime": "11:50:25",
+        "car_id": "584ARY",
+        "exitTime": "15:54:14",
+        "date": "2017-07-25"
+    },
+    {
+        "enterTime": "06:04:51",
+        "car_id": "144AAR ",
+        "exitTime": "06:55:09",
+        "date": "2019-02-21"
+    },
+    {
+        "enterTime": "10:59:20",
+        "car_id": "644AJT",
+        "exitTime": "13:08:19",
+        "date": "2018-11-26"
+    },
+    {
+        "enterTime": "13:10:54",
+        "car_id": "910ANP",
+        "exitTime": "21:41:23",
+        "date": "2019-02-22"
+    },
+    {
+        "enterTime": "07:04:34",
+        "car_id": "266AGJ",
+        "exitTime": "09:41:09",
+        "date": "2019-02-23"
+    },
+    {
+        "enterTime": "15:11:55",
+        "car_id": "266AGJ",
+        "exitTime": "19:17:26",
+        "date": "2018-05-18"
+    },
+    {
+        "enterTime": "16:21:15",
+        "car_id": "266AGJ",
+        "exitTime": "17:11:05",
+        "date": "2018-02-24"
+    },
+    {
+        "enterTime": "17:12:50",
+        "car_id": "298AHU",
+        "exitTime": "18:57:34",
+        "date": "2018-01-06"
+    },
+    {
+        "enterTime": "18:34:24",
+        "car_id": "899AFK",
+        "exitTime": "01:27:49",
+        "date": "2017-08-06"
+    },
+    {
+        "enterTime": "19:43:13",
+        "car_id": "975AMF",
+        "exitTime": "00:23:21",
+        "date": "2017-03-02"
+    },
+    {
+        "enterTime": "17:23:03",
+        "car_id": "558AKV",
+        "exitTime": "19:41:22",
+        "date": "2017-02-07"
+    },
+    {
+        "enterTime": "11:01:05",
+        "car_id": "910ANP",
+        "exitTime": "15:39:08",
+        "date": "2019-01-01"
+    },
+    {
+        "enterTime": "07:46:51",
+        "car_id": "266AGJ",
+        "exitTime": "09:38:03",
+        "date": "2019-01-19"
+    },
+    {
+        "enterTime": "09:26:19",
+        "car_id": "899AFK",
+        "exitTime": "12:50:57",
+        "date": "2018-07-29"
+    },
+    {
+        "enterTime": "15:32:05",
+        "car_id": "298AHU",
+        "exitTime": "17:36:37",
+        "date": "2019-02-06"
+    },
+    {
+        "enterTime": "19:27:39",
+        "car_id": "975APR",
+        "exitTime": "22:52:25",
+        "date": "2017-06-13"
+    },
+    {
+        "enterTime": "13:36:44",
+        "car_id": "975AMF",
+        "exitTime": "18:57:19",
+        "date": "2018-08-23"
+    },
+    {
+        "enterTime": "09:32:52",
+        "car_id": "584ARY",
+        "exitTime": "18:08:51",
+        "date": "2019-01-30"
+    },
+    {
+        "enterTime": "12:36:23",
+        "car_id": "910ANP",
+        "exitTime": "17:55:25",
+        "date": "2019-01-10"
+    },
+    {
+        "enterTime": "13:48:03",
+        "car_id": "975AMF",
+        "exitTime": "17:23:11",
+        "date": "2019-02-22"
+    },
+    {
+        "enterTime": "10:03:57",
+        "car_id": "910ANP",
+        "exitTime": "14:13:09",
+        "date": "2019-01-05"
+    },
+    {
+        "enterTime": "19:07:56",
+        "car_id": "910ANP",
+        "exitTime": "03:30:03",
+        "date": "2019-02-09"
+    },
+    {
+        "enterTime": "17:54:55",
+        "car_id": "584ARY",
+        "exitTime": "23:13:39",
+        "date": "2017-02-23"
+    },
+    {
+        "enterTime": "12:12:55",
+        "car_id": "298AHU",
+        "exitTime": "16:25:15",
+        "date": "2019-01-26"
+    },
+    {
+        "enterTime": "15:53:25",
+        "car_id": "975AMF",
+        "exitTime": "21:50:40",
+        "date": "2019-01-03"
+    },
+    {
+        "enterTime": "10:18:12",
+        "car_id": "899AFK",
+        "exitTime": "16:53:00",
+        "date": "2018-03-24"
+    },
+    {
+        "enterTime": "10:33:22",
+        "car_id": "144AAR ",
+        "exitTime": "17:00:47",
+        "date": "2019-02-06"
+    },
+    {
+        "enterTime": "19:57:57",
+        "car_id": "584ARY",
+        "exitTime": "03:09:23",
+        "date": "2018-11-05"
+    },
+    {
+        "enterTime": "09:21:59",
+        "car_id": "298AHU",
+        "exitTime": "16:44:52",
+        "date": "2019-01-29"
+    },
+    {
+        "enterTime": "08:11:52",
+        "car_id": "910ANP",
+        "exitTime": "12:15:17",
+        "date": "2018-06-14"
+    },
+    {
+        "enterTime": "21:38:07",
+        "car_id": "644AJT",
+        "exitTime": "02:48:43",
+        "date": "2019-02-12"
+    },
+    {
+        "enterTime": "13:37:58",
+        "car_id": "558AKV",
+        "exitTime": "19:02:48",
+        "date": "2019-02-11"
+    },
+    {
+        "enterTime": "18:02:44",
+        "car_id": "644AJT",
+        "exitTime": "20:59:43",
+        "date": "2018-06-28"
+    },
+    {
+        "enterTime": "10:04:01",
+        "car_id": "144AAR ",
+        "exitTime": "17:54:36",
+        "date": "2019-02-28"
+    },
+    {
+        "enterTime": "17:11:34",
+        "car_id": "975APR",
+        "exitTime": "22:30:06",
+        "date": "2019-01-31"
+    },
+    {
+        "enterTime": "10:09:24",
+        "car_id": "899AFK",
+        "exitTime": "11:24:57",
+        "date": "2019-02-27"
+    },
+    {
+        "enterTime": "17:38:20",
+        "car_id": "266AGJ",
+        "exitTime": "02:16:50",
+        "date": "2017-03-25"
+    },
+    {
+        "enterTime": "17:07:27",
+        "car_id": "266AGJ",
+        "exitTime": "18:27:47",
+        "date": "2017-08-02"
+    },
+    {
+        "enterTime": "08:43:15",
+        "car_id": "144AAR ",
+        "exitTime": "15:49:16",
+        "date": "2019-01-30"
+    },
+    {
+        "enterTime": "21:33:54",
+        "car_id": "910ANP",
+        "exitTime": "02:11:44",
+        "date": "2019-01-07"
+    },
+    {
+        "enterTime": "21:37:06",
+        "car_id": "298AHU",
+        "exitTime": "23:33:17",
+        "date": "2019-01-27"
+    },
+    {
+        "enterTime": "10:07:49",
+        "car_id": "975AMF",
+        "exitTime": "18:06:13",
+        "date": "2019-01-04"
+    },
+    {
+        "enterTime": "12:37:40",
+        "car_id": "558AKV",
+        "exitTime": "18:51:40",
+        "date": "2019-01-15"
+    },
+    {
+        "enterTime": "06:16:15",
+        "car_id": "144AAR ",
+        "exitTime": "13:18:25",
+        "date": "2018-09-18"
+    },
+    {
+        "enterTime": "21:09:04",
+        "car_id": "910ANP",
+        "exitTime": "21:11:10",
+        "date": "2018-03-22"
+    },
+    {
+        "enterTime": "22:48:33",
+        "car_id": "558AKV",
+        "exitTime": "05:04:00",
+        "date": "2018-12-28"
+    },
+    {
+        "enterTime": "17:55:57",
+        "car_id": "910ANP",
+        "exitTime": "00:51:18",
+        "date": "2019-02-04"
+    },
+    {
+        "enterTime": "15:01:56",
+        "car_id": "298AHU",
+        "exitTime": "16:50:14",
+        "date": "2018-09-22"
+    },
+    {
+        "enterTime": "14:54:07",
+        "car_id": "298AHU",
+        "exitTime": "18:19:43",
+        "date": "2019-01-04"
+    },
+    {
+        "enterTime": "11:20:20",
+        "car_id": "558AKV",
+        "exitTime": "17:24:46",
+        "date": "2018-05-26"
+    },
+    {
+        "enterTime": "16:05:05",
+        "car_id": "558AKV",
+        "exitTime": "17:29:15",
+        "date": "2018-06-03"
+    },
+    {
+        "enterTime": "15:03:11",
+        "car_id": "899AFK",
+        "exitTime": "22:21:07",
+        "date": "2018-07-23"
+    },
+    {
+        "enterTime": "19:33:51",
+        "car_id": "975APR",
+        "exitTime": "00:56:16",
+        "date": "2019-02-27"
+    },
+    {
+        "enterTime": "18:45:41",
+        "car_id": "975AMF",
+        "exitTime": "19:52:05",
+        "date": "2018-09-19"
+    },
+    {
+        "enterTime": "07:22:03",
+        "car_id": "975AMF",
+        "exitTime": "13:26:15",
+        "date": "2019-02-02"
+    },
+    {
+        "enterTime": "10:33:55",
+        "car_id": "584ARY",
+        "exitTime": "18:41:10",
+        "date": "2019-01-23"
+    },
+    {
+        "enterTime": "18:44:26",
+        "car_id": "975APR",
+        "exitTime": "22:06:34",
+        "date": "2019-02-26"
+    },
+    {
+        "enterTime": "18:46:39",
+        "car_id": "266AGJ",
+        "exitTime": "00:52:36",
+        "date": "2017-01-05"
+    },
+    {
+        "enterTime": "22:55:42",
+        "car_id": "975APR",
+        "exitTime": "06:12:35",
+        "date": "2018-01-24"
+    },
+    {
+        "enterTime": "19:53:08",
+        "car_id": "910ANP",
+        "exitTime": "01:23:01",
+        "date": "2017-11-17"
+    },
+    {
+        "enterTime": "21:35:19",
+        "car_id": "558AKV",
+        "exitTime": "03:23:35",
+        "date": "2018-02-12"
+    },
+    {
+        "enterTime": "22:16:01",
+        "car_id": "558AKV",
+        "exitTime": "06:59:42",
+        "date": "2019-02-17"
+    },
+    {
+        "enterTime": "14:35:00",
+        "car_id": "584ARY",
+        "exitTime": "20:32:45",
+        "date": "2018-03-28"
+    },
+    {
+        "enterTime": "22:19:36",
+        "car_id": "584ARY",
+        "exitTime": "01:11:57",
+        "date": "2018-01-07"
+    },
+    {
+        "enterTime": "10:08:46",
+        "car_id": "975AMF",
+        "exitTime": "14:57:51",
+        "date": "2019-01-03"
+    },
+    {
+        "enterTime": "17:27:40",
+        "car_id": "298AHU",
+        "exitTime": "19:55:27",
+        "date": "2018-01-10"
+    },
+    {
+        "enterTime": "21:22:34",
+        "car_id": "298AHU",
+        "exitTime": "03:24:44",
+        "date": "2019-02-01"
+    },
+    {
+        "enterTime": "11:47:12",
+        "car_id": "584ARY",
+        "exitTime": "15:38:59",
+        "date": "2019-02-23"
+    },
+    {
+        "enterTime": "06:46:22",
+        "car_id": "266AGJ",
+        "exitTime": "09:21:55",
+        "date": "2018-05-20"
+    },
+    {
+        "enterTime": "14:15:59",
+        "car_id": "644AJT",
+        "exitTime": "14:36:14",
+        "date": "2017-06-14"
+    },
+    {
+        "enterTime": "22:50:01",
+        "car_id": "644AJT",
+        "exitTime": "00:21:12",
+        "date": "2017-05-19"
+    },
+    {
+        "enterTime": "14:18:56",
+        "car_id": "975APR",
+        "exitTime": "17:27:58",
+        "date": "2018-05-06"
+    },
+    {
+        "enterTime": "10:13:42",
+        "car_id": "298AHU",
+        "exitTime": "18:52:59",
+        "date": "2019-01-22"
+    },
+    {
+        "enterTime": "15:07:17",
+        "car_id": "266AGJ",
+        "exitTime": "17:50:17",
+        "date": "2018-07-05"
+    },
+    {
+        "enterTime": "22:25:57",
+        "car_id": "644AJT",
+        "exitTime": "22:45:59",
+        "date": "2019-01-03"
+    },
+    {
+        "enterTime": "12:40:00",
+        "car_id": "644AJT",
+        "exitTime": "13:16:34",
+        "date": "2018-02-15"
+    },
+    {
+        "enterTime": "11:05:37",
+        "car_id": "144AAR ",
+        "exitTime": "15:02:06",
+        "date": "2018-03-22"
+    },
+    {
+        "enterTime": "11:29:11",
+        "car_id": "899AFK",
+        "exitTime": "14:37:04",
+        "date": "2019-02-15"
+    },
+    {
+        "enterTime": "13:37:31",
+        "car_id": "644AJT",
+        "exitTime": "20:34:24",
+        "date": "2019-01-02"
+    },
+    {
+        "enterTime": "14:57:21",
+        "car_id": "975AMF",
+        "exitTime": "14:58:35",
+        "date": "2019-01-01"
+    },
+    {
+        "enterTime": "14:06:23",
+        "car_id": "298AHU",
+        "exitTime": "14:45:37",
+        "date": "2018-11-21"
+    },
+    {
+        "enterTime": "18:52:50",
+        "car_id": "975APR",
+        "exitTime": "01:55:16",
+        "date": "2019-01-09"
+    },
+    {
+        "enterTime": "14:02:02",
+        "car_id": "558AKV",
+        "exitTime": "21:13:12",
+        "date": "2017-12-29"
+    },
+    {
+        "enterTime": "21:33:02",
+        "car_id": "975AMF",
+        "exitTime": "23:56:06",
+        "date": "2018-03-04"
+    },
+    {
+        "enterTime": "17:57:05",
+        "car_id": "298AHU",
+        "exitTime": "01:57:50",
+        "date": "2018-06-08"
+    },
+    {
+        "enterTime": "07:25:44",
+        "car_id": "266AGJ",
+        "exitTime": "11:40:35",
+        "date": "2017-06-12"
+    },
+    {
+        "enterTime": "13:56:14",
+        "car_id": "910ANP",
+        "exitTime": "20:00:29",
+        "date": "2017-05-20"
+    },
+    {
+        "enterTime": "20:56:24",
+        "car_id": "910ANP",
+        "exitTime": "01:05:06",
+        "date": "2018-09-23"
+    },
+    {
+        "enterTime": "22:47:58",
+        "car_id": "558AKV",
+        "exitTime": "06:02:31",
+        "date": "2018-06-19"
+    },
+    {
+        "enterTime": "17:59:10",
+        "car_id": "144AAR ",
+        "exitTime": "21:33:16",
+        "date": "2019-01-03"
+    },
+    {
+        "enterTime": "15:23:39",
+        "car_id": "975AMF",
+        "exitTime": "19:41:11",
+        "date": "2018-02-28"
+    },
+    {
+        "enterTime": "17:15:09",
+        "car_id": "144AAR ",
+        "exitTime": "19:46:12",
+        "date": "2018-07-08"
+    },
+    {
+        "enterTime": "13:04:37",
+        "car_id": "266AGJ",
+        "exitTime": "17:09:31",
+        "date": "2019-02-25"
+    },
+    {
+        "enterTime": "09:56:40",
+        "car_id": "584ARY",
+        "exitTime": "13:42:10",
+        "date": "2018-09-22"
+    },
+    {
+        "enterTime": "12:05:26",
+        "car_id": "975AMF",
+        "exitTime": "19:04:47",
+        "date": "2019-01-23"
+    },
+    {
+        "enterTime": "19:24:39",
+        "car_id": "899AFK",
+        "exitTime": "02:21:28",
+        "date": "2019-02-28"
+    },
+    {
+        "enterTime": "14:45:02",
+        "car_id": "144AAR ",
+        "exitTime": "21:31:19",
+        "date": "2017-02-09"
+    },
+    {
+        "enterTime": "21:36:57",
+        "car_id": "644AJT",
+        "exitTime": "21:41:56",
+        "date": "2017-06-17"
+    },
+    {
+        "enterTime": "17:11:23",
+        "car_id": "266AGJ",
+        "exitTime": "20:00:41",
+        "date": "2017-01-15"
+    },
+    {
+        "enterTime": "08:15:41",
+        "car_id": "558AKV",
+        "exitTime": "08:34:53",
+        "date": "2017-03-18"
+    },
+    {
+        "enterTime": "20:03:34",
+        "car_id": "899AFK",
+        "exitTime": "22:33:27",
+        "date": "2019-02-02"
+    },
+    {
+        "enterTime": "16:24:02",
+        "car_id": "644AJT",
+        "exitTime": "16:26:42",
+        "date": "2018-12-25"
+    },
+    {
+        "enterTime": "08:32:34",
+        "car_id": "558AKV",
+        "exitTime": "13:45:01",
+        "date": "2018-02-15"
+    },
+    {
+        "enterTime": "14:44:36",
+        "car_id": "584ARY",
+        "exitTime": "23:05:20",
+        "date": "2019-02-08"
+    },
+    {
+        "enterTime": "08:04:40",
+        "car_id": "298AHU",
+        "exitTime": "13:17:19",
+        "date": "2019-01-13"
+    },
+    {
+        "enterTime": "16:25:07",
+        "car_id": "910ANP",
+        "exitTime": "20:35:45",
+        "date": "2018-11-17"
+    },
+    {
+        "enterTime": "11:44:56",
+        "car_id": "644AJT",
+        "exitTime": "14:24:32",
+        "date": "2019-01-13"
+    },
+    {
+        "enterTime": "07:37:35",
+        "car_id": "298AHU",
+        "exitTime": "16:09:06",
+        "date": "2019-02-21"
+    },
+    {
+        "enterTime": "08:45:54",
+        "car_id": "899AFK",
+        "exitTime": "09:03:37",
+        "date": "2017-06-19"
+    },
+    {
+        "enterTime": "19:27:46",
+        "car_id": "144AAR ",
+        "exitTime": "01:04:12",
+        "date": "2018-02-22"
+    },
+    {
+        "enterTime": "08:53:13",
+        "car_id": "558AKV",
+        "exitTime": "17:14:11",
+        "date": "2019-02-03"
+    },
+    {
+        "enterTime": "19:39:42",
+        "car_id": "298AHU",
+        "exitTime": "22:46:43",
+        "date": "2019-01-18"
+    },
+    {
+        "enterTime": "22:26:18",
+        "car_id": "644AJT",
+        "exitTime": "05:34:15",
+        "date": "2018-03-03"
+    },
+    {
+        "enterTime": "16:52:29",
+        "car_id": "584ARY",
+        "exitTime": "21:54:37",
+        "date": "2018-07-17"
+    },
+    {
+        "enterTime": "07:14:38",
+        "car_id": "144AAR ",
+        "exitTime": "15:49:53",
+        "date": "2018-08-04"
+    },
+    {
+        "enterTime": "08:38:44",
+        "car_id": "558AKV",
+        "exitTime": "14:52:48",
+        "date": "2017-10-14"
+    },
+    {
+        "enterTime": "06:43:55",
+        "car_id": "899AFK",
+        "exitTime": "09:04:34",
+        "date": "2017-05-15"
+    },
+    {
+        "enterTime": "17:56:07",
+        "car_id": "910ANP",
+        "exitTime": "02:32:32",
+        "date": "2018-01-18"
+    },
+    {
+        "enterTime": "06:28:34",
+        "car_id": "899AFK",
+        "exitTime": "13:32:28",
+        "date": "2019-02-22"
+    },
+    {
+        "enterTime": "12:55:18",
+        "car_id": "899AFK",
+        "exitTime": "15:22:14",
+        "date": "2018-08-22"
+    },
+    {
+        "enterTime": "22:22:23",
+        "car_id": "910ANP",
+        "exitTime": "00:26:37",
+        "date": "2018-04-26"
+    },
+    {
+        "enterTime": "21:26:19",
+        "car_id": "298AHU",
+        "exitTime": "04:43:53",
+        "date": "2019-02-17"
+    },
+    {
+        "enterTime": "14:09:01",
+        "car_id": "899AFK",
+        "exitTime": "14:25:03",
+        "date": "2019-01-10"
+    },
+    {
+        "enterTime": "06:59:09",
+        "car_id": "975AMF",
+        "exitTime": "14:30:55",
+        "date": "2018-10-29"
+    },
+    {
+        "enterTime": "17:11:01",
+        "car_id": "266AGJ",
+        "exitTime": "20:47:36",
+        "date": "2017-08-24"
+    },
+    {
+        "enterTime": "16:39:43",
+        "car_id": "899AFK",
+        "exitTime": "17:55:31",
+        "date": "2019-02-16"
+    },
+    {
+        "enterTime": "19:29:15",
+        "car_id": "266AGJ",
+        "exitTime": "02:16:51",
+        "date": "2017-09-02"
+    },
+    {
+        "enterTime": "07:16:48",
+        "car_id": "144AAR ",
+        "exitTime": "08:15:01",
+        "date": "2019-01-15"
+    },
+    {
+        "enterTime": "15:53:40",
+        "car_id": "975APR",
+        "exitTime": "22:03:58",
+        "date": "2018-05-24"
+    },
+    {
+        "enterTime": "09:40:03",
+        "car_id": "266AGJ",
+        "exitTime": "18:30:48",
+        "date": "2018-04-04"
+    },
+    {
+        "enterTime": "10:36:42",
+        "car_id": "975APR",
+        "exitTime": "11:11:37",
+        "date": "2017-09-23"
+    },
+    {
+        "enterTime": "18:46:10",
+        "car_id": "144AAR ",
+        "exitTime": "02:14:42",
+        "date": "2019-01-14"
+    },
+    {
+        "enterTime": "13:05:00",
+        "car_id": "266AGJ",
+        "exitTime": "21:11:39",
+        "date": "2017-09-12"
+    },
+    {
+        "enterTime": "21:16:44",
+        "car_id": "584ARY",
+        "exitTime": "04:41:21",
+        "date": "2019-01-17"
+    },
+    {
+        "enterTime": "08:13:19",
+        "car_id": "298AHU",
+        "exitTime": "08:37:58",
+        "date": "2019-02-24"
+    },
+    {
+        "enterTime": "09:20:39",
+        "car_id": "298AHU",
+        "exitTime": "13:56:43",
+        "date": "2018-11-13"
+    },
+    {
+        "enterTime": "07:20:41",
+        "car_id": "298AHU",
+        "exitTime": "11:41:54",
+        "date": "2018-01-02"
+    },
+    {
+        "enterTime": "21:04:13",
+        "car_id": "144AAR ",
+        "exitTime": "03:42:34",
+        "date": "2018-12-11"
+    },
+    {
+        "enterTime": "20:59:03",
+        "car_id": "584ARY",
+        "exitTime": "03:05:15",
+        "date": "2017-01-06"
+    },
+    {
+        "enterTime": "06:02:53",
+        "car_id": "144AAR ",
+        "exitTime": "14:34:49",
+        "date": "2017-09-11"
+    },
+    {
+        "enterTime": "12:32:13",
+        "car_id": "644AJT",
+        "exitTime": "14:03:46",
+        "date": "2018-07-12"
+    },
+    {
+        "enterTime": "07:12:02",
+        "car_id": "975APR",
+        "exitTime": "15:22:28",
+        "date": "2019-01-05"
+    },
+    {
+        "enterTime": "17:51:06",
+        "car_id": "644AJT",
+        "exitTime": "21:02:36",
+        "date": "2018-12-29"
+    },
+    {
+        "enterTime": "20:54:25",
+        "car_id": "144AAR ",
+        "exitTime": "01:06:35",
+        "date": "2018-12-21"
+    },
+    {
+        "enterTime": "11:13:16",
+        "car_id": "644AJT",
+        "exitTime": "14:53:07",
+        "date": "2019-02-28"
+    },
+    {
+        "enterTime": "11:07:35",
+        "car_id": "144AAR ",
+        "exitTime": "11:25:43",
+        "date": "2018-09-22"
+    },
+    {
+        "enterTime": "15:18:24",
+        "car_id": "266AGJ",
+        "exitTime": "16:48:08",
+        "date": "2017-12-19"
+    },
+    {
+        "enterTime": "17:33:19",
+        "car_id": "558AKV",
+        "exitTime": "02:05:05",
+        "date": "2017-01-08"
+    },
+    {
+        "enterTime": "07:18:14",
+        "car_id": "558AKV",
+        "exitTime": "07:52:21",
+        "date": "2018-06-01"
+    },
+    {
+        "enterTime": "10:20:48",
+        "car_id": "298AHU",
+        "exitTime": "12:03:25",
+        "date": "2019-01-29"
+    },
+    {
+        "enterTime": "14:28:10",
+        "car_id": "558AKV",
+        "exitTime": "21:56:03",
+        "date": "2019-02-20"
+    },
+    {
+        "enterTime": "07:39:58",
+        "car_id": "266AGJ",
+        "exitTime": "14:11:36",
+        "date": "2018-06-15"
+    },
+    {
+        "enterTime": "19:40:37",
+        "car_id": "298AHU",
+        "exitTime": "23:54:20",
+        "date": "2017-10-29"
+    },
+    {
+        "enterTime": "18:47:24",
+        "car_id": "910ANP",
+        "exitTime": "19:41:25",
+        "date": "2018-01-28"
+    },
+    {
+        "enterTime": "17:18:50",
+        "car_id": "910ANP",
+        "exitTime": "18:44:06",
+        "date": "2019-02-06"
+    },
+    {
+        "enterTime": "08:05:13",
+        "car_id": "975AMF",
+        "exitTime": "10:37:51",
+        "date": "2017-04-19"
+    },
+    {
+        "enterTime": "08:04:03",
+        "car_id": "144AAR ",
+        "exitTime": "10:04:04",
+        "date": "2018-05-08"
+    },
+    {
+        "enterTime": "13:25:17",
+        "car_id": "899AFK",
+        "exitTime": "13:25:22",
+        "date": "2018-01-03"
+    },
+    {
+        "enterTime": "16:24:38",
+        "car_id": "899AFK",
+        "exitTime": "21:28:01",
+        "date": "2017-05-22"
+    },
+    {
+        "enterTime": "16:14:21",
+        "car_id": "558AKV",
+        "exitTime": "20:12:29",
+        "date": "2017-01-14"
+    },
+    {
+        "enterTime": "15:11:10",
+        "car_id": "910ANP",
+        "exitTime": "16:14:53",
+        "date": "2018-03-28"
+    },
+    {
+        "enterTime": "19:04:16",
+        "car_id": "899AFK",
+        "exitTime": "03:11:46",
+        "date": "2018-10-25"
+    },
+    {
+        "enterTime": "06:30:15",
+        "car_id": "558AKV",
+        "exitTime": "11:59:48",
+        "date": "2017-06-15"
+    },
+    {
+        "enterTime": "14:31:16",
+        "car_id": "266AGJ",
+        "exitTime": "16:36:31",
+        "date": "2018-11-01"
+    },
+    {
+        "enterTime": "22:46:08",
+        "car_id": "644AJT",
+        "exitTime": "00:32:10",
+        "date": "2019-01-24"
+    },
+    {
+        "enterTime": "14:51:11",
+        "car_id": "558AKV",
+        "exitTime": "19:47:31",
+        "date": "2018-11-24"
+    },
+    {
+        "enterTime": "16:01:39",
+        "car_id": "266AGJ",
+        "exitTime": "22:03:15",
+        "date": "2017-01-11"
+    },
+    {
+        "enterTime": "16:09:23",
+        "car_id": "899AFK",
+        "exitTime": "21:09:11",
+        "date": "2017-05-19"
+    },
+    {
+        "enterTime": "13:27:21",
+        "car_id": "144AAR ",
+        "exitTime": "21:17:23",
+        "date": "2019-01-13"
+    },
+    {
+        "enterTime": "10:58:14",
+        "car_id": "910ANP",
+        "exitTime": "14:39:40",
+        "date": "2018-01-03"
+    },
+    {
+        "enterTime": "11:45:06",
+        "car_id": "910ANP",
+        "exitTime": "17:01:46",
+        "date": "2017-01-04"
+    },
+    {
+        "enterTime": "21:39:56",
+        "car_id": "266AGJ",
+        "exitTime": "01:10:58",
+        "date": "2019-01-08"
+    },
+    {
+        "enterTime": "08:13:08",
+        "car_id": "899AFK",
+        "exitTime": "13:49:33",
+        "date": "2018-11-16"
+    },
+    {
+        "enterTime": "06:16:04",
+        "car_id": "266AGJ",
+        "exitTime": "10:48:43",
+        "date": "2018-04-02"
+    },
+    {
+        "enterTime": "21:37:57",
+        "car_id": "899AFK",
+        "exitTime": "05:58:01",
+        "date": "2018-12-06"
+    },
+    {
+        "enterTime": "07:53:46",
+        "car_id": "644AJT",
+        "exitTime": "14:09:21",
+        "date": "2019-01-07"
+    },
+    {
+        "enterTime": "15:46:25",
+        "car_id": "910ANP",
+        "exitTime": "20:54:11",
+        "date": "2017-12-12"
+    },
+    {
+        "enterTime": "15:25:10",
+        "car_id": "144AAR ",
+        "exitTime": "19:10:24",
+        "date": "2018-10-31"
+    },
+    {
+        "enterTime": "13:45:29",
+        "car_id": "910ANP",
+        "exitTime": "20:35:25",
+        "date": "2017-06-09"
+    },
+    {
+        "enterTime": "20:07:23",
+        "car_id": "910ANP",
+        "exitTime": "22:40:37",
+        "date": "2019-01-18"
+    },
+    {
+        "enterTime": "19:33:18",
+        "car_id": "584ARY",
+        "exitTime": "02:07:36",
+        "date": "2019-02-27"
+    },
+    {
+        "enterTime": "08:15:23",
+        "car_id": "644AJT",
+        "exitTime": "14:18:26",
+        "date": "2018-06-22"
+    },
+    {
+        "enterTime": "14:13:54",
+        "car_id": "910ANP",
+        "exitTime": "16:50:24",
+        "date": "2017-05-15"
+    },
+    {
+        "enterTime": "20:45:01",
+        "car_id": "584ARY",
+        "exitTime": "01:39:52",
+        "date": "2019-01-28"
+    },
+    {
+        "enterTime": "21:08:23",
+        "car_id": "144AAR ",
+        "exitTime": "01:21:58",
+        "date": "2019-01-31"
+    },
+    {
+        "enterTime": "15:49:12",
+        "car_id": "266AGJ",
+        "exitTime": "21:33:56",
+        "date": "2018-10-30"
+    },
+    {
+        "enterTime": "20:18:35",
+        "car_id": "298AHU",
+        "exitTime": "22:16:35",
+        "date": "2018-04-27"
+    },
+    {
+        "enterTime": "08:28:59",
+        "car_id": "975AMF",
+        "exitTime": "15:09:28",
+        "date": "2017-10-03"
+    },
+    {
+        "enterTime": "10:30:16",
+        "car_id": "644AJT",
+        "exitTime": "19:22:59",
+        "date": "2019-01-12"
+    },
+    {
+        "enterTime": "07:44:50",
+        "car_id": "298AHU",
+        "exitTime": "13:25:30",
+        "date": "2019-02-09"
+    },
+    {
+        "enterTime": "10:36:54",
+        "car_id": "975AMF",
+        "exitTime": "15:19:47",
+        "date": "2018-04-25"
+    },
+    {
+        "enterTime": "22:02:25",
+        "car_id": "975AMF",
+        "exitTime": "06:03:52",
+        "date": "2018-07-28"
+    },
+    {
+        "enterTime": "21:21:12",
+        "car_id": "644AJT",
+        "exitTime": "23:01:28",
+        "date": "2019-02-04"
+    },
+    {
+        "enterTime": "07:49:52",
+        "car_id": "298AHU",
+        "exitTime": "09:32:29",
+        "date": "2017-04-25"
+    },
+    {
+        "enterTime": "06:58:08",
+        "car_id": "975APR",
+        "exitTime": "15:23:10",
+        "date": "2018-08-15"
+    },
+    {
+        "enterTime": "07:53:54",
+        "car_id": "910ANP",
+        "exitTime": "13:42:26",
+        "date": "2018-11-10"
+    },
+    {
+        "enterTime": "13:03:52",
+        "car_id": "144AAR ",
+        "exitTime": "21:57:57",
+        "date": "2019-02-21"
+    },
+    {
+        "enterTime": "18:57:34",
+        "car_id": "558AKV",
+        "exitTime": "22:09:12",
+        "date": "2018-09-26"
+    },
+    {
+        "enterTime": "14:19:39",
+        "car_id": "910ANP",
+        "exitTime": "23:06:06",
+        "date": "2018-06-26"
+    },
+    {
+        "enterTime": "11:30:50",
+        "car_id": "298AHU",
+        "exitTime": "19:14:01",
+        "date": "2018-04-26"
+    },
+    {
+        "enterTime": "15:02:38",
+        "car_id": "975AMF",
+        "exitTime": "15:10:42",
+        "date": "2019-02-23"
+    },
+    {
+        "enterTime": "08:02:08",
+        "car_id": "144AAR ",
+        "exitTime": "11:33:59",
+        "date": "2019-02-09"
+    },
+    {
+        "enterTime": "14:50:15",
+        "car_id": "899AFK",
+        "exitTime": "22:16:38",
+        "date": "2017-01-14"
+    },
+    {
+        "enterTime": "12:13:22",
+        "car_id": "584ARY",
+        "exitTime": "16:37:18",
+        "date": "2017-11-27"
+    },
+    {
+        "enterTime": "17:18:19",
+        "car_id": "558AKV",
+        "exitTime": "19:12:30",
+        "date": "2017-08-18"
+    },
+    {
+        "enterTime": "18:36:52",
+        "car_id": "910ANP",
+        "exitTime": "01:03:26",
+        "date": "2017-05-23"
+    },
+    {
+        "enterTime": "14:13:29",
+        "car_id": "298AHU",
+        "exitTime": "23:09:28",
+        "date": "2017-09-08"
+    },
+    {
+        "enterTime": "14:09:24",
+        "car_id": "298AHU",
+        "exitTime": "20:14:35",
+        "date": "2017-09-04"
+    },
+    {
+        "enterTime": "10:15:41",
+        "car_id": "558AKV",
+        "exitTime": "10:15:41",
+        "date": "2019-03-18"
+    },
+    {
+        "enterTime": "06:13:53",
+        "car_id": "975AMF",
+        "exitTime": "06:13:53",
+        "date": "2019-03-18"
+    },
+    {
+        "enterTime": "10:52:53",
+        "car_id": "266AGJ",
+        "exitTime": "10:52:53",
+        "date": "2019-03-18"
+    },
+    {
+        "enterTime": "09:54:27",
+        "car_id": "899AFK",
+        "exitTime": "09:54:27",
+        "date": "2019-03-18"
+    },
+    {
+        "enterTime": "12:03:57",
+        "car_id": "644AJT",
+        "exitTime": "12:03:57",
+        "date": "2019-03-18"
+    },
+    {
+        "enterTime": "08:51:38",
+        "car_id": "144AAR ",
+        "exitTime": "08:51:38",
+        "date": "2019-03-18"
+    },
+    {
+        "enterTime": "12:34:38",
+        "car_id": "975APR",
+        "exitTime": "12:34:38",
+        "date": "2019-03-18"
+    },
+    {
+        "enterTime": "11:06:40",
+        "car_id": "910ANP",
+        "exitTime": "11:06:40",
+        "date": "2019-03-18"
+    },
+    {
+        "enterTime": "10:45:45",
+        "car_id": "298AHU",
+        "exitTime": "10:45:45",
+        "date": "2019-03-18"
+    },
+    {
+        "enterTime": "06:14:14",
+        "car_id": "584ARY",
+        "exitTime": "06:14:14",
+        "date": "2019-03-18"
+    }
+]

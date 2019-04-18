@@ -1,0 +1,650 @@
+[
+    {
+        "model": "parkManagement.Parking",
+        "pk": 0,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 32,
+            "xCoord": 137,
+            "yCoord": 232
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 1,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 33,
+            "xCoord": 137,
+            "yCoord": 312
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 2,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 34,
+            "xCoord": 137,
+            "yCoord": 392
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 3,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 35,
+            "xCoord": 137,
+            "yCoord": 472
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 4,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 36,
+            "xCoord": 137,
+            "yCoord": 552
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 5,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 42,
+            "xCoord": 442,
+            "yCoord": 137
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 6,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 43,
+            "xCoord": 522,
+            "yCoord": 137
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 7,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 44,
+            "xCoord": 602,
+            "yCoord": 137
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 8,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 45,
+            "xCoord": 682,
+            "yCoord": 137
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 9,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 46,
+            "xCoord": 762,
+            "yCoord": 137
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 10,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 47,
+            "xCoord": 842,
+            "yCoord": 137
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 11,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 4842,
+            "xCoord": 442,
+            "yCoord": 449
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 12,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 4943,
+            "xCoord": 522,
+            "yCoord": 449
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 13,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 5044,
+            "xCoord": 602,
+            "yCoord": 449
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 14,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 5145,
+            "xCoord": 682,
+            "yCoord": 449
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 15,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 5246,
+            "xCoord": 762,
+            "yCoord": 449
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 16,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 5347,
+            "xCoord": 842,
+            "yCoord": 449
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 17,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 37,
+            "xCoord": 1163,
+            "yCoord": 232
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 18,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 38,
+            "xCoord": 1163,
+            "yCoord": 312
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 19,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 39,
+            "xCoord": 1163,
+            "yCoord": 392
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 20,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 40,
+            "xCoord": 1163,
+            "yCoord": 472
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 21,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 41,
+            "xCoord": 1163,
+            "yCoord": 552
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 22,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 48,
+            "xCoord": 442,
+            "yCoord": 760
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 23,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 49,
+            "xCoord": 522,
+            "yCoord": 760
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 24,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 50,
+            "xCoord": 602,
+            "yCoord": 760
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 25,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 51,
+            "xCoord": 682,
+            "yCoord": 760
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 26,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 52,
+            "xCoord": 762,
+            "yCoord": 760
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 27,
+        "fields": {
+            "isParkingLot": true,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 53,
+            "xCoord": 842,
+            "yCoord": 760
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 28,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": true,
+            "isExit": false,
+            "nearPoint": 32,
+            "xCoord": 299,
+            "yCoord": 65
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 29,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": true,
+            "isExit": false,
+            "nearPoint": 41,
+            "xCoord": 996,
+            "yCoord": 832
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 30,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": true,
+            "nearPoint": 37,
+            "xCoord": 996,
+            "yCoord": 65
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 31,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": true,
+            "nearPoint": 36,
+            "xCoord": 299,
+            "yCoord": 832
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 32,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 33422800,
+            "xCoord": 317,
+            "yCoord": 232
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 33,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 42343201,
+            "xCoord": 317,
+            "yCoord": 312
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 34,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 42353302,
+            "xCoord": 317,
+            "yCoord": 392
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 35,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 363403,
+            "xCoord": 317,
+            "yCoord": 472
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 36,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 31483504,
+            "xCoord": 317,
+            "yCoord": 552
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 37,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 47303817,
+            "xCoord": 983,
+            "yCoord": 232
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 38,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 47393718,
+            "xCoord": 983,
+            "yCoord": 312
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 39,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 47403819,
+            "xCoord": 983,
+            "yCoord": 392
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 40,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 413920,
+            "xCoord": 983,
+            "yCoord": 472
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 41,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 29534021,
+            "xCoord": 983,
+            "yCoord": 552
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 42,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 343332431305,
+            "xCoord": 442,
+            "yCoord": 297
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 43,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 44421406,
+            "xCoord": 522,
+            "yCoord": 297
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 44,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 45431507,
+            "xCoord": 602,
+            "yCoord": 297
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 45,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 46441608,
+            "xCoord": 682,
+            "yCoord": 297
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 46,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 47451709,
+            "xCoord": 762,
+            "yCoord": 297
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 47,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 393837461810,
+            "xCoord": 842,
+            "yCoord": 297
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 48,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 36492411,
+            "xCoord": 442,
+            "yCoord": 609
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 49,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 50482512,
+            "xCoord": 522,
+            "yCoord": 609
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 50,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 51492613,
+            "xCoord": 602,
+            "yCoord": 609
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 51,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 52502714,
+            "xCoord": 682,
+            "yCoord": 609
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 52,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 53512815,
+            "xCoord": 762,
+            "yCoord": 609
+        }
+    },
+    {
+        "model": "parkManagement.Parking",
+        "pk": 53,
+        "fields": {
+            "isParkingLot": false,
+            "isEnter": false,
+            "isExit": false,
+            "nearPoint": 41522916,
+            "xCoord": 842,
+            "yCoord": 609
+        }
+    }
+]
